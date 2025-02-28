@@ -1,5 +1,7 @@
 # RoboRally
 
+![An image of the RoboRally Boardgame Box](https://cf.geekdo-images.com/eJx8hRJ6-86C2VrhECwEPA__itemrep/img/T3W6bMjG8ijDY_U4tEfoY6e2CCo=/fit-in/246x300/filters:strip_icc()/pic1000553.jpg)
+
 ## Summary
 RoboRally is an exciting and unpredictable board game where players take on the role of competing robots navigating a chaotic factory floor. Designed by Richard Garfield and first published in 1994, the game challenges players to race their robots to a series of checkpoints while avoiding hazards like conveyor belts, pits, lasers, and other moving obstacles. The factory is a constantly shifting environment, ensuring that every game is different and full of unexpected twists.
 
