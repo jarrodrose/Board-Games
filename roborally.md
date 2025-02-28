@@ -11,4 +11,5 @@ With its blend of tactical planning and unpredictable mayhem, RoboRally offers a
 
 ## References
 - [Wikipedia - Roborally](https://en.wikipedia.org/wiki/RoboRally)
-- [Rules](https://renegadegamestudios.com/content/File%20Storage%20for%20site/Rulebooks/Robo%20Rally/RoboRally_Rulebook_WEB.pdf?srsltid=AfmBOor9lvAfFrfgzS6fMMA9l2VDgENOecMsCR7DDaWnKiCyLQPH7epq)
+- [Board Game Geeks](https://boardgamegeek.com/boardgame/18/roborally)
+- [Rules](https://fgbradleys.com/wp-content/uploads/rules/Robo%20Rally%20-%20rules.pdf?srsltid=AfmBOor9ie1DgyHcR5BZ3HCzJqwaSHBhKhZPk0Urr1fLcth1Qw350k5n)
