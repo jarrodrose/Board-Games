@@ -19,4 +19,4 @@ If all mediums successfully identify their respective sets before time runs out,
 - [Mysterium - BoardGameGeek](https://boardgamegeek.com/boardgame/181304/mysterium)
 - [Mysterium (board game) - Wikipedia](https://en.wikipedia.org/wiki/Mysterium_(board_game))
 - [Mysterium - Libellud](https://www.libellud.com/en/our-games/mysterium/)
-- [Mysterium Rules (PDF)](https://cdn.svc.asmodee.net/production-libellud/uploads/2022/03/MYST_RULES_EN_BD.pdf) 
+- [Mysterium Rules (PDF)](https://cdn.svc.asmodee.net/production-libellud/uploads/2022/03/MYST_RULES_EN_BD.pdf)
