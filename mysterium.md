@@ -1,22 +1,26 @@
 # Mysterium
 
 ## Summary
+Mysterium is a cooperative deduction board game in which players work together to solve a supernatural mystery. Set in the 1920s, one player assumes the role of a silent Ghost attempting to communicate via dreamlike 'vision' cards, while the other players are psychic mediums striving to interpret these cryptic images. By deducing the correct suspect, location, and murder weapon, everyone hopes to piece together the narrative of the Ghost’s untimely demise.
 
-Mysterium is a cooperative board game where players immerse themselves in a supernatural murder mystery. Set in a haunted mansion, one player assumes the role of a silent ghost, while the others become psychic mediums striving to uncover the truth behind the ghost's untimely demise. Through a series of abstract and evocative vision cards, the ghost provides clues to guide the mediums in identifying the correct suspect, location, and weapon involved in the murder.
+Gameplay unfolds over a series of rounds where the Ghost provides visions in the form of beautifully illustrated cards, challenging mediums to connect abstract images with the murder’s key elements. As the mediums progress, they narrow down the possible culprits, places, and objects before the final round—where a single correct combination must be agreed upon for the group to collectively win. The tension created by the time limit and the ambiguity of the artwork fosters lively discussions and creative theorizing.
 
-The game unfolds over seven rounds, during which the ghost presents vision cards to each medium. These cards, rich in surreal imagery, serve as the ghost's sole means of communication. Mediums must interpret these visions, discuss their insights, and collaborate to deduce their individual sets of suspect, location, and weapon. The challenge lies in the abstract nature of the visions, requiring players to rely on their intuition and collective reasoning to piece together the mystery.
-
-If all mediums successfully identify their respective sets before time runs out, they proceed to a final round. Here, the ghost provides a limited number of visions to hint at the true culprit among the identified suspects. The mediums then vote on who they believe is the actual murderer. A correct majority vote ensures victory, allowing the ghost to rest in peace. Mysterium's unique blend of cooperative gameplay, imaginative storytelling, and stunning artwork offers an engaging experience that challenges players' deductive skills and fosters teamwork.
+Praised for its atmospheric art, unique communication mechanic, and immersive theme, Mysterium accommodates both strategic and casual players. Its cooperative nature encourages teamwork and open conversation, making it a favorite for larger groups looking for a thematic puzzle-solving experience.
 
 ## Stats
+- 2–7 players
+- Ages 10+
+- Approximately 42–60 minutes
 
-- **Players:** 2–7
-- **Age Range:** 10 and up
-- **Estimated Duration:** 42 minutes
+## Expansions
+- [ ] **Mysterium: Hidden Signs** – Adds new suspects, locations, objects, and vision cards for increased variety.
+- [ ] **Mysterium: Secrets & Lies** – Introduces story-based clues and alternative “object” cards to deepen the mystery.
+- [ ] *Various promos and smaller card packs* – Occasionally released to provide extra vision cards or unique gameplay twists.
+
+*(Note: *Mysterium Park* is a standalone spin-off game with similar mechanics, rather than an expansion to the original.)*
 
 ## References
-
-- [Mysterium - BoardGameGeek](https://boardgamegeek.com/boardgame/181304/mysterium)
-- [Mysterium (board game) - Wikipedia](https://en.wikipedia.org/wiki/Mysterium_(board_game))
-- [Mysterium - Libellud](https://www.libellud.com/en/our-games/mysterium/)
+- [Mysterium – BoardGameGeek](https://boardgamegeek.com/boardgame/181304/mysterium)
+- [Mysterium (board game) – Wikipedia](https://en.wikipedia.org/wiki/Mysterium_(board_game))
+- [Mysterium – Libellud](https://www.libellud.com/en/our-games/mysterium/)
 - [Mysterium Rules (PDF)](https://cdn.svc.asmodee.net/production-libellud/uploads/2022/03/MYST_RULES_EN_BD.pdf)
