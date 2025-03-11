@@ -3,6 +3,7 @@
 ## JR Owned
 - [Catan](settlers-of-catan.md)
 - [Dixit: Disney Edition](dixit-disney.md)
+- [Munchkin](munchkin.md)
 - [Mysterium](mysterium.md)
 - [RoboRally](roborally.md)
 
