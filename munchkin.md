@@ -1,6 +1,5 @@
 # Munchkin
 
-## Image Placeholder
 ![Placeholder Image](./placeholder.jpg)
 
 ## Overview
