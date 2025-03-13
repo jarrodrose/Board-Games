@@ -1,3 +1,5 @@
+exclude: ['./README.md']
+
 title: "Board Game Collection"
 description: "A collection of board games I own and love."
 baseurl: "/Board-Games" # the subpath for your site
