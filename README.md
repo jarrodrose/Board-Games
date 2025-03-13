@@ -1,4 +1,7 @@
-# Board Game Resources
+---
+layout: home
+title: "Board Game Resources"
+---
 
 ## JR Owned
 - [Catan](settlers-of-catan)
