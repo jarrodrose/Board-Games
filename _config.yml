@@ -2,11 +2,12 @@ title: "Board Game Collection"
 description: "A collection of board games I own and love."
 baseurl: "/Board-Games" # the subpath for your site
 url: "https://jarrodrose.github.io"
+
 theme: minima # or another theme of your choice
-author:
-  name: Jarrod Rose
-  email: "boardgames@jarrodrose.com"
-minima:
-  nav_pages:
-    - index.md
-    - about.md
+
+author: Jarrod Rose
+email: "boardgames@jarrodrose.com"
+
+neader_pages:
+  - index.md
+  - about.md
