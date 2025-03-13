@@ -8,6 +8,5 @@ theme: minima # or another theme of your choice
 author: Jarrod Rose
 email: "boardgames@jarrodrose.com"
 
-neader_pages:
-  - index.md
+header_pages:
   - about.md
