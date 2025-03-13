@@ -4,14 +4,14 @@ title: "Board Game Resources"
 ---
 
 ## JR Owned
-- [Catan](/games/settlers-of-catan)
-- [Dixit: Disney Edition](/games/dixit-disney)
-- [Munchkin](/games/munchkin)
-- [Mysterium](/games/mysterium)
-- [RoboRally](/games/roborally)
+- [Catan](./games/settlers-of-catan)
+- [Dixit: Disney Edition](./games/dixit-disney)
+- [Munchkin](./games/munchkin)
+- [Mysterium](./games/mysterium)
+- [RoboRally](./games/roborally)
 
 ## Friends Owned
-- [Dixit](/games/dixit)
+- [Dixit](./games/dixit)
 
 ## Links
 - [BoardGameGeeks](https://boardgamegeek.com/) - Board game listing website
