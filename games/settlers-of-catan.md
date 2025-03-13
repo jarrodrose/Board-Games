@@ -3,7 +3,6 @@ layout: game
 title: "Settlers of Catan"
 year: 1995
 players: "3-4"
-category: Strategy
 ---
 
 ![Placeholder Image](./placeholder.jpg)

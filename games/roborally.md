@@ -1,6 +1,13 @@
+---
+layout: game
+title: "Robo Rally"
+year: 1994
+players: "2-8"
+---
+
 # Robo Rally
 
-![An image of the RoboRally Boardgame Box](https://cf.geekdo-images.com/eJx8hRJ6-86C2VrhECwEPA__itemrep/img/T3W6bMjG8ijDY_U4tEfoY6e2CCo=/fit-in/246x300/filters:strip_icc()/pic1000553.jpg)
+![An image of the Robo Rally Boardgame Box](https://cf.geekdo-images.com/eJx8hRJ6-86C2VrhECwEPA__itemrep/img/T3W6bMjG8ijDY_U4tEfoY6e2CCo=/fit-in/246x300/filters:strip_icc()/pic1000553.jpg)
 
 ## Overview
 Robo Rally is a competitive racing and programming board game in which players control robots on a hazardous factory floor. Using a deck of instruction cards, you and your opponents simultaneously program your robots' movements across conveyor belts, rotating gears, and other perilous obstacles. The goal is to reach specified checkpoints in the correct order, but even the best-planned route can be thwarted by collisions, laser turrets, or a slight miscalculation of movement.

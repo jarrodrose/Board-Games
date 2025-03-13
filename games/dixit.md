@@ -1,3 +1,10 @@
+---
+layout: game
+title: "Dixit"
+year: 2008
+players: "3-6"
+---
+
 # Dixit
 ![Placeholder Image](./placeholder.jpg)
 

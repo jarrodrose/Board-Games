@@ -1,4 +1,10 @@
-# Dixit: Disney Edition
+---
+layout: game
+title: "Dixit: Disney Edition"
+year: 2023
+players: "3-6"
+---
+
 ![Placeholder Image](./placeholder.jpg)
 
 ## Overview

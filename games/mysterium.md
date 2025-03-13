@@ -1,3 +1,10 @@
+---
+layout: game
+title: "Mysterium"
+year: 2015
+players: "2-7"
+---
+
 # Mysterium
 
 ![Placeholder Image](./placeholder.jpg)
