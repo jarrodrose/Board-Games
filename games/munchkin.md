@@ -1,4 +1,9 @@
-# Munchkin
+---
+layout: game
+title: "Settlers of Catan"
+year: 1995
+players: "3-4"
+---
 
 ![Placeholder Image](./placeholder.jpg)
 
