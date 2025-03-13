@@ -6,7 +6,6 @@ url: "https://jarrodrose.github.io"
 theme: minima # or another theme of your choice
 
 author: Jarrod Rose
-email: "boardgames@jarrodrose.com"
 
 header_pages:
   - about.md
