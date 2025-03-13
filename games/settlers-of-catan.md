@@ -1,8 +1,13 @@
 ---
 layout: game
 title: "Settlers of Catan"
-year: 1995
-players: "3-4"
+
+game_stats:
+	year: 1995
+	players: "3-4"
+	duration: "60-90 minutes"
+	complexity: "Easy to Medium"
+
 ---
 
 ## Overview
