@@ -5,8 +5,6 @@ year: 1995
 players: "3-4"
 ---
 
-![Placeholder Image](./placeholder.jpg)
-
 ## Overview
 Catan (previously called The Settlers of Catan) is a landmark strategy board game where players take on the roles of settlers striving to develop and expand their colonies on the island of Catan. Each turn, dice rolls determine which resources (lumber, wool, grain, brick, and ore) the island produces. Players then trade or use these resources to build roads, settlements, and cities in a race to earn victory points. With its blend of resource management, negotiation, and territory expansion, Catan has become one of the most widely recognized gateway games, introducing countless people to modern board gaming.
 

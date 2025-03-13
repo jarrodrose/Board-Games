@@ -5,8 +5,6 @@ year: 1995
 players: "3-4"
 ---
 
-![Placeholder Image](./placeholder.jpg)
-
 ## Overview
 Munchkin is a comedic card game that parodies traditional role-playing adventures by focusing on monster slaying, treasure grabbing, and (often) shameless backstabbing. Players race to be the first to reach Level 10, using gear, special abilities, and cunning to outsmart both monsters and fellow players. Its humorous artwork, pun-filled cards, and simple rules make Munchkin a popular choice for lighthearted, fast-paced tabletop fun.
 

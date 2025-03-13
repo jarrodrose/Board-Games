@@ -5,8 +5,6 @@ year: 2023
 players: "3-6"
 ---
 
-![Placeholder Image](./placeholder.jpg)
-
 ## Overview
 Dixit: Disney Edition is a standalone version of the popular storytelling card game, blending the imaginative gameplay of Dixit with the beloved characters and scenes from almost a century of Disney and Pixar films. As in the original Dixit, each round has an “active player” who provides a short clue or prompt inspired by one of their cards. Other players submit a card from their own hands that could match the clue. All submitted cards are revealed, and everyone (except the active player) tries to guess which image belongs to the clue-giver.
 

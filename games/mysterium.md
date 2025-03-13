@@ -5,8 +5,6 @@ year: 2015
 players: "2-7"
 ---
 
-![Placeholder Image](./placeholder.jpg)
-
 ## Overview
 Mysterium is a cooperative deduction game set in the 1920s where one player acts as a silent Ghost, attempting to communicate clues to the other players—called mediums—using beautifully illustrated “vision” cards. Working together, the mediums must interpret these abstract images to identify the correct suspect, location, and weapon connected to the Ghost’s untimely demise.
 

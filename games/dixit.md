@@ -5,8 +5,6 @@ year: 2008
 players: "3-6"
 ---
 
-![Placeholder Image](./placeholder.jpg)
-
 ## Overview
 Dixit is a storytelling card game known for its whimsical artwork and creative gameplay. Each round, the "active player" gives a short clue or phrase inspired by one of their cards, and the other players must secretly submit one of their own cards that best matches that clue. All submitted cards are then revealed, and players attempt to guess which card belongs to the active player. Correct guesses earn points, but if the clue is too obvious or too obscure, the active player risks missing out on points.
 
