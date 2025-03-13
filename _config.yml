@@ -1,0 +1,5 @@
+title: "Board Game Collection"
+description: "A collection of board games I own and love."
+baseurl: "/Board-Games" # the subpath for your site
+url: "https://jarrodrose.github.io"
+theme: minima # or another theme of your choice
