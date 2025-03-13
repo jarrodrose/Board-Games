@@ -1,8 +1,9 @@
 ---
 layout: game
 title: "Dixit: Disney Edition"
-year: 2023
-players: "3-6"
+game_stats:
+  year: 2023
+  players: "3-6"
 ---
 
 ## Overview

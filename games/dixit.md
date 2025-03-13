@@ -1,8 +1,9 @@
 ---
 layout: game
 title: "Dixit"
-year: 2008
-players: "3-6"
+game_stats:
+  year: 2008
+  players: "3-6"
 ---
 
 ## Overview

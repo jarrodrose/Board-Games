@@ -1,8 +1,9 @@
 ---
 layout: game
 title: "Mysterium"
-year: 2015
-players: "2-7"
+game_stats:
+  year: 2015
+  players: "2-7"
 ---
 
 ## Overview

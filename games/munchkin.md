@@ -1,8 +1,9 @@
 ---
 layout: game
 title: "Settlers of Catan"
-year: 1995
-players: "3-4"
+game_stats:
+  year: 1995
+  players: "3-4"
 ---
 
 ## Overview
