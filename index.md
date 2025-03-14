@@ -4,6 +4,7 @@ title: "Board Game Resources"
 ---
 
 ## JR Owned
+- [Carcassonne](./games/carcassonne)
 - [Catan](./games/settlers-of-catan)
 - [Dixit: Disney Edition](./games/dixit-disney)
 - [Munchkin](./games/munchkin)
