@@ -7,10 +7,8 @@ game_stats:
   duration: "30-45 minutes"
   complexity: "Easy"
   age_range: "7+"
-boxart: "https://commons.wikimedia.org/wiki/File:Carcassonne_with_several_expansions.jpg"
+boxart: "https://upload.wikimedia.org/wikipedia/commons/8/86/Carcassonne_with_several_expansions.jpg"
 ---
-
-([File:Carcassonne with several expansions.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carcassonne_with_several_expansions.jpg)) *A game of **Carcassonne** in progress, featuring a medieval landscape built with tiles and meeples.*
 
 ## Overview  
 **Carcassonne** is a classic tile-placement strategy board game set in medieval France. It was designed by Klaus-Jürgen Wrede and first published in 2000 ([Carcassonne (board game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game)#:~:text=Carcassonne%20,Spiele%20Preis%20awards%20in%202001)). The game is named after the walled city of Carcassonne in southern France, reflecting its medieval fortress theme ([Carcassonne (board game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game)#:~:text=It%20is%20named%20after%20the,the%20box%2C%20was%20released%20in)). In Carcassonne, players draw and place landscape tiles to build out a map of cities, roads, monasteries, and fields, claiming these features with their wooden follower tokens (meeples) to score points. The gameplay is **simple to learn** yet offers **strategic depth** – making it appealing to both families and serious gamers. Carcassonne won the prestigious **Spiel des Jahres** (Game of the Year) award in 2001 and has since spawned numerous expansions and spin-offs ([Carcassonne (board game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game)#:~:text=Games%20%20,Spiele%20Preis%20awards%20in%202001)). Its blend of light tactical decision-making and historical theme (developing medieval cities and infrastructure) gives it a broad, enduring appeal.
