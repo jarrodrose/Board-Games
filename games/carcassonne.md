@@ -4,11 +4,11 @@ title: "Carcassonne"
 game_stats:
   year: 2000
   players: "2-5"
+  duration: "30-45 minutes"
+  complexity: "Easy"
+  age_range: "7+"
+boxart: "https://commons.wikimedia.org/wiki/File:Carcassonne_with_several_expansions.jpg"
 ---
-
-duration: 30-45 mins
-age: 7+
-complexity: Low
 
 ([File:Carcassonne with several expansions.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carcassonne_with_several_expansions.jpg)) *A game of **Carcassonne** in progress, featuring a medieval landscape built with tiles and meeples.*
 
