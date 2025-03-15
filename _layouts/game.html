@@ -8,9 +8,21 @@ layout: base
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="post-content">
+  <div class="boxart">
     <img src="{{ page.boxart }}" />
-    <p>Released in {{ page.game_stats.year }}, suitable for {{ page.game_stats.players }} players.</p>
+  </div>
+
+  <div class="game_stats">
+    <ul>
+      <li>Year Released: {{ page.game_stats.year }}</li>
+      <li>Players: {{ page.game_stats.players }}</li>
+      <li>Expected Duration: {{ page.game_stats.duration }}</li>
+      <li>Complexity: {{ page.game_stats.complexity }}</li>
+      <li>Age Range: {{ page.game_stats.age_range }}</li>
+    </ul>
+  </div>
+
+  <div class="post-content">
     {{ content }}
   </div>
 
