@@ -7,7 +7,7 @@ game_stats:
   duration: "30-45 minutes"
   complexity: "Easy"
   age_range: "7+"
-boxart: "https://upload.wikimedia.org/wikipedia/commons/8/86/Carcassonne_with_several_expansions.jpg&width=200"
+boxart: "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Carcassonne_with_several_expansions.jpg&width=200"
 ---
 
 ## Overview  
