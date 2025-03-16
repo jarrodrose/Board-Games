@@ -4,6 +4,7 @@ title: "Dixit: Disney Edition"
 game_stats:
   year: 2023
   players: "3-6"
+owned: "yes"
 ---
 
 ## Overview

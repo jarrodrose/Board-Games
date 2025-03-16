@@ -7,7 +7,7 @@ game_stats:
   players: "3-4"
   duration: "60-90 minutes"
   complexity: "Easy to Medium"
-
+owned: "yes"
 ---
 
 ## Overview

@@ -5,6 +5,7 @@ game_stats:
   year: 2001
   players: "3-6"
   age_range: "12+"
+owned: "yes"
 ---
 
 ## Overview

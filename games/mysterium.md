@@ -4,6 +4,7 @@ title: "Mysterium"
 game_stats:
   year: 2015
   players: "2-7"
+owned: "yes"
 ---
 
 ## Overview

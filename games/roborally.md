@@ -5,6 +5,7 @@ game_stats:
   year: 1994
   players: "2-8"
 boxart: "https://cf.geekdo-images.com/eJx8hRJ6-86C2VrhECwEPA__itemrep/img/T3W6bMjG8ijDY_U4tEfoY6e2CCo=/fit-in/246x300/filters:strip_icc()/pic1000553.jpg"
+owned: "yes"
 ---
 
 ## Overview

@@ -4,6 +4,7 @@ title: "Dixit"
 game_stats:
   year: 2008
   players: "3-6"
+owned: "no"
 ---
 
 ## Overview

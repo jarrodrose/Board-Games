@@ -8,6 +8,7 @@ game_stats:
   complexity: "Easy"
   age_range: "7+"
 boxart: "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Carcassonne-game.jpg"
+owned: "yes"
 ---
 
 ## Overview  
