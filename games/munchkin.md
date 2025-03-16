@@ -1,9 +1,10 @@
 ---
 layout: game
-title: "Settlers of Catan"
+title: "Munchkin"
 game_stats:
-  year: 1995
-  players: "3-4"
+  year: 2001
+  players: "3-6"
+  age_range: "12+"
 ---
 
 ## Overview
