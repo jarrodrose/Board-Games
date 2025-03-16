@@ -4,25 +4,27 @@ title: "Board Game Resources"
 ---
 
 ## JR Owned
-- [Carcassonne](./games/carcassonne)
-- [Catan](./games/settlers-of-catan)
-- [Dixit: Disney Edition](./games/dixit-disney)
-- [Munchkin](./games/munchkin)
-- [Mysterium](./games/mysterium)
-- [RoboRally](./games/roborally)
+<ul>
+{% for page in site.pages %}
+  {% if page.layout contains 'game' %}
+    {% if page.owned contains 'yes' %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
 
-## Friends Owned
-- [Dixit](./games/dixit)
+## Friends Owned or Wanted
+<ul>
+{% for page in site.pages %}
+  {% if page.layout contains 'game' %}
+    {% unless page.owned contains 'yes' %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
 
 ## Links
 - [BoardGameGeeks](https://boardgamegeek.com/) - Board game listing website
 - [MechanicsBG](https://mechanicsbg.com/) - Website that explains board game mechanics
-
-## Uncurated Page List
-<ul>
-{% for page in site.pages %}
-  {% if page.layout contains 'game' %}
-  	<li><a href="{{ page.url }}">{{ page.title }}</a>{% if page.owned contains 'yes' %} (Owned){% endif %}</li>
-  {% endif %}
-{% endfor %}
-</ul>
