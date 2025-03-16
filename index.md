@@ -20,7 +20,7 @@ title: "Board Game Resources"
   {% if page.layout contains 'game' %}
     {% unless page.owned contains 'yes' %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-    {% endif %}
+    {% endunless %}
   {% endif %}
 {% endfor %}
 </ul>
