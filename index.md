@@ -17,3 +17,12 @@ title: "Board Game Resources"
 ## Links
 - [BoardGameGeeks](https://boardgamegeek.com/) - Board game listing website
 - [MechanicsBG](https://mechanicsbg.com/) - Website that explains board game mechanics
+
+## Uncurated Page List
+<ul>
+{% for page in site.pages %}
+  {% if page.layout contains 'game' %}
+  	<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
