@@ -22,7 +22,7 @@ title: "Board Game Resources"
 <ul>
 {% for page in site.pages %}
   {% if page.layout contains 'game' %}
-  	<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  	<li><a href="{{ page.url }}">{{ page.title }}</a>{% if page.owned contains 'yes' %} (Owned){% endif %}</li>
   {% endif %}
 {% endfor %}
 </ul>
