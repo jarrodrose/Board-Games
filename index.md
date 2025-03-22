@@ -8,7 +8,7 @@ title: "Board Game Resources"
 {% for page in site.pages %}
   {% if page.layout contains 'game' %}
     {% if page.owned contains 'yes' %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -19,7 +19,7 @@ title: "Board Game Resources"
 {% for page in site.pages %}
   {% if page.layout contains 'game' %}
     {% unless page.owned contains 'yes' %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endunless %}
   {% endif %}
 {% endfor %}
