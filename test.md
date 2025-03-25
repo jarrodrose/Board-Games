@@ -6,7 +6,11 @@ layout: null
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style>
-		* {box-sizing: border-box;}
+		* {
+		  box-sizing: border-box;
+		  margin: 0;
+		  padding: 0;
+		}
 
 		.container {
 		  position: relative;
