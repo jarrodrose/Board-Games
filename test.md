@@ -38,6 +38,17 @@ layout: null
 		  text-align: center;
 		}
 
+		.derp {
+			position: absolute;
+			top: 0;
+			right: 0;
+			width: 150px;
+			height: 150px;
+			color: white;
+			font-size: 20px;
+			text-align: center;
+		}
+
 		.container:hover .overlay {
 		  opacity: 1;
 		}
@@ -48,6 +59,9 @@ layout: null
 		<iframe class="image" width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/TRgqtaYb4sU?si=qnPdzqwP_N2ReSDg&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 		<div class="overlay">
 			<p>Jarrod</p>
+		</div>
+		<div class="derp">
+			<p>DERP</p>
 		</div>
 	</div>
 </body>
