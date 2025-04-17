@@ -4,6 +4,8 @@ title: "Munchkin"
 game_stats:
   year: 2001
   players: "3-6"
+  duration: "~60 mins"
+  complexity: "Easy"
   age_range: "12+"
 owned: "yes"
 ---
