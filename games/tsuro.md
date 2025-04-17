@@ -7,7 +7,7 @@ game_stats:
   duration: "15-20 minutes"
   complexity: "Easy"
   age_range: "8+"
-boxart: "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Tsuro_board_and_tiles.jpg"
+boxart: "https://calliopegames.com/wp-content/uploads/2016/09/Tsuro-cover.jpg"
 owned: "yes"
 ---
 
