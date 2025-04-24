@@ -14,11 +14,11 @@ layout: base
 
   <div class="game_stats">
     <ul>
-      <li>Year Released: {{ page.game_stats.year }}</li>
-      <li>Players: {{ page.game_stats.players }}</li>
-      <li>Expected Duration: {{ page.game_stats.duration }}</li>
-      <li>Complexity: {{ page.game_stats.complexity }}</li>
-      <li>Age Range: {{ page.game_stats.age_range }}</li>
+      {% if page.game_stats.year %}<li>Year Released: {{ page.game_stats.year }}</li>{% endif %}
+      {% if page.game_stats.players %}<li>Players: {{ page.game_stats.players }}</li>{% endif %}
+      {% if page.game_stats.duration %}<li>Expected Duration: {{ page.game_stats.duration }}</li>{% endif %}
+      {% if page.game_stats.complexity %}<li>Complexity: {{ page.game_stats.complexity }}</li>{% endif %}
+      {% if page.game_stats.age_range %}<li>Age Range: {{ page.game_stats.age_range }}</li>{% endif %}
     </ul>
   </div>
 
