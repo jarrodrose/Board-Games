@@ -1,5 +1,5 @@
 ---
-layout: game
+layout: game2
 title: "Tsuro"
 game_stats:
   year: 2004
@@ -9,6 +9,8 @@ game_stats:
   age_range: "8+"
 boxart: "https://calliopegames.com/wp-content/uploads/2016/09/Tsuro-cover.jpg"
 owned: "yes"
+details:
+  overview: 'Tsuro: The Game of the Path is a fast, elegant tile‑laying game first published in 2004. Players lay curved “path” tiles on a 6 × 6 grid, guiding their stone markers along the ever‑growing network of lines while trying to stay on the board and avoid colliding with other players. The last stone remaining wins. Simple rules (place a tile, move your stone, draw a new tile) combine with tense spatial planning, creating a family‑friendly experience that rewards foresight and a touch of risk‑taking.'
 ---
 
 ## Overview  
