@@ -23,16 +23,20 @@ layout: base
   </div>
 
   <div class="post-content" style="clear: right;">
+    {% if page.overview %}
     <div class="overview">
       <h2>Overview</h2>
       <p>{{ page.overview }}</p>
     </div>
+    {% endif %}
+    {% if page.components %}
     <div class="components">
       <h2>Box Components</h2>
       <ul>
         {% for dot in page.components %}<li>{{ dot }}</li>{% endfor %}
       </ul>
     </div>
+    {% endif %}
     <div class="content">
       {{ content }}
     </div>
