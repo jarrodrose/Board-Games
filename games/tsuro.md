@@ -1,5 +1,5 @@
 ---
-layout: game2
+layout: game
 title: "Tsuro"
 owned: "yes"
 game_stats:
