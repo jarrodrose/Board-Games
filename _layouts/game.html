@@ -12,47 +12,31 @@ layout: base
     {% if page.boxart %}<img style="max-width: 200px;" src="{{ page.boxart }}" alt="{{ page.title }} Box Art" />{% endif %}
   </div>
 
-{% if page.game_stats %}
   <div class="game_stats">
     <ul>
-      {% assign labels = 
-        {
-          "year": "Year Released",
-          "players": "Players",
-          "duration": "Expected Duration",
-          "complexity": "Complexity",
-          "age_range": "Age Range"
-        } 
-      %}
-      {% for key in page.game_stats %}
-        {% assign value = page.game_stats[key] %}
-        {% assign label = labels[key] | default: key %}
-        {% if value %}
-          <li><strong>{{ label }}:</strong> {{ value }}</li>
-        {% endif %}
-      {% endfor %}
+      <li>Year Released: {{ page.game_stats.year }}</li>
+      <li>Players: {{ page.game_stats.players }}</li>
+      <li>Expected Duration: {{ page.game_stats.duration }}</li>
+      <li>Complexity: {{ page.game_stats.complexity }}</li>
+      <li>Age Range: {{ page.game_stats.age_range }}</li>
     </ul>
   </div>
-{% endif %}
-
 
   <div class="post-content" style="clear: right;">
-{% if page.overview %}
+    {% if page.overview %}
     <div class="overview">
       <h2>Overview</h2>
       <p>{{ page.overview }}</p>
     </div>
-{% endif %}
-{% if page.components %}
+    {% endif %}
+    {% if page.components %}
     <div class="components">
       <h2>Box Components</h2>
       <ul>
-  {% for dot in page.components %}
-        <li>{{ dot }}</li>
-  {% endfor %}
+        {% for dot in page.components %}<li>{{ dot }}</li>{% endfor %}
       </ul>
     </div>
-{% endif %}
+    {% endif %}
     <div class="content">
       {{ content }}
     </div>
