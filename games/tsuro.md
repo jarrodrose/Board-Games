@@ -1,6 +1,7 @@
 ---
 layout: game2
 title: "Tsuro"
+owned: "yes"
 game_stats:
   year: 2004
   players: "2-8"
@@ -8,26 +9,14 @@ game_stats:
   complexity: "Easy"
   age_range: "8+"
 boxart: "https://calliopegames.com/wp-content/uploads/2016/09/Tsuro-cover.jpg"
-owned: "yes"
-details:
-  overview: 'Tsuro: The Game of the Path is a fast, elegant tile‑laying game first published in 2004. Players lay curved "path" tiles on a 6 × 6 grid, guiding their stone markers along the ever‑growing network of lines while trying to stay on the board and avoid colliding with other players. The last stone remaining wins. Simple rules (place a tile, move your stone, draw a new tile) combine with tense spatial planning, creating a family‑friendly experience that rewards foresight and a touch of risk‑taking.'
-  components:
-    - 1 folding game board (6 × 6 grid)
-    - 35 path tiles
-    - 8 stone tokens (player markers)
-    - 1 Dragon tile (used when the tile draw pile empties)
-    - Rulebook
+overview: 'Tsuro: The Game of the Path is a fast, elegant tile‑laying game first published in 2004. Players lay curved "path" tiles on a 6 × 6 grid, guiding their stone markers along the ever‑growing network of lines while trying to stay on the board and avoid colliding with other players. The last stone remaining wins. Simple rules (place a tile, move your stone, draw a new tile) combine with tense spatial planning, creating a family‑friendly experience that rewards foresight and a touch of risk‑taking.'
+components:
+  - 1 folding game board (6 × 6 grid)
+  - 8 stone tokens (player markers)
+  - 35 path tiles
+  - 1 Dragon tile (used when the tile draw pile empties)
+  - Rulebook
 ---
-
-## Overview  
-Tsuro: The Game of the Path is a fast, elegant tile‑laying game first published in 2004. Players lay curved “path” tiles on a 6 × 6 grid, guiding their stone markers along the ever‑growing network of lines while trying to stay on the board and avoid colliding with other players. The last stone remaining wins. Simple rules (place a tile, move your stone, draw a new tile) combine with tense spatial planning, creating a family‑friendly experience that rewards foresight and a touch of risk‑taking.
-
-## Components (What’s in the Box)  
-- 1 folding game board (6 × 6 grid)  
-- 35 path tiles  
-- 8 stone tokens (player markers)  
-- 1 Dragon tile (used when the tile draw pile empties)  
-- Rulebook  
 
 ## Setup  
 1. Unfold the board and give each player a stone; unused stones return to the box.  
