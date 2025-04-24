@@ -25,13 +25,16 @@ layout: base
   <div class="post-content">
     <div class="overview">
       <h2>Overview</h2>
-      <p>{{ page.details.overview }}</p>
+      <p>{{ page.overview }}</p>
     </div>
     <div class="components">
       <h2>Box Components</h2>
       <ul>
-        {% for dot in page.details.components %}<li>{{ dot }}</li>{% endfor %}
-</ul>
+        {% for dot in page.components %}<li>{{ dot }}</li>{% endfor %}
+      </ul>
+    </div>
+    <div class="content">
+      {{ content }}
     </div>
   </div>
 
