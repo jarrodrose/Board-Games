@@ -24,8 +24,7 @@ layout: base
           "age_range": "Age Range"
         } 
       %}
-
-      {% for key in page.game_stats | keys %}
+      {% for key in page.game_stats %}
         {% assign value = page.game_stats[key] %}
         {% assign label = labels[key] | default: key %}
         {% if value %}
