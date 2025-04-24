@@ -8,7 +8,7 @@ layout: base
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="boxart">
+  <div class="boxart"  style="float: right;">
     {% if page.boxart %}<img style="max-width: 200px;" src="{{ page.boxart }}" alt="{{ page.title }} Box Art" />{% endif %}
   </div>
 
@@ -22,8 +22,20 @@ layout: base
     </ul>
   </div>
 
-  <div class="post-content">
-    {{ content }}
+  <div class="post-content" style="clear: right;">
+    <div class="overview">
+      <h2>Overview</h2>
+      <p>{{ page.overview }}</p>
+    </div>
+    <div class="components">
+      <h2>Box Components</h2>
+      <ul>
+        {% for dot in page.components %}<li>{{ dot }}</li>{% endfor %}
+      </ul>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
   </div>
 
 </article>
