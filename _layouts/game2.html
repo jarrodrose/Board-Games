@@ -29,7 +29,9 @@ layout: base
     </div>
     <div class="components">
       <h2>Box Components</h2>
-      <p>{{ page.details.components }}</p>
+      <ul>
+        {% for dot in page.details.components %}<li>{{ dot }}</li>{% endfor %}
+</ul>
     </div>
   </div>
 
