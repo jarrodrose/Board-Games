@@ -7,6 +7,7 @@ game_stats:
   players: "3-4"
   duration: "60-90 minutes"
   complexity: "Easy to Medium"
+  age_range: "10+"
 owned: "yes"
 boxart: 'https://www.catan.com/sites/default/files/2025-04/3DBox_CATAN_BaseGame_NE.png'
 overview: 'Catan (previously called The Settlers of Catan) is a landmark strategy board game where players take on the roles of settlers striving to develop and expand their colonies on the island of Catan. Each turn, dice rolls determine which resources (lumber, wool, grain, brick, and ore) the island produces. Players then trade or use these resources to build roads, settlements, and cities in a race to earn victory points. With its blend of resource management, negotiation, and territory expansion, Catan has become one of the most widely recognized gateway games, introducing countless people to modern board gaming.'
@@ -95,4 +96,5 @@ components:
 ## References
 - [Catan - Wikipedia](https://en.wikipedia.org/wiki/Catan)
 - [Catan - BoardGameGeek](https://boardgamegeek.com/boardgame/13/catan)
-- [Official Rules (PDF)](https://www.catan.com/files/downloads/catan_base_rules_2020_200707.pdf)
+- [Official Rules (PDF)](https://www.catan.com/sites/default/files/2025-03/CN3081%20CATAN%E2%80%93The%20Game%20Rulebook%20secure%20%281%29.pdf)
+- [Official Rules 5-6 players](https://www.catan.com/sites/default/files/2025-03/CN3082%20CATAN%20%E2%80%93%205-6%20Rulebook%202025%20reduced.pdf)
