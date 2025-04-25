@@ -8,6 +8,7 @@ game_stats:
   duration: "60-90 minutes"
   complexity: "Easy to Medium"
 owned: "yes"
+boxart: 'https://www.catan.com/sites/default/files/2025-04/3DBox_CATAN_BaseGame_NE.png'
 overview: 'Catan (previously called The Settlers of Catan) is a landmark strategy board game where players take on the roles of settlers striving to develop and expand their colonies on the island of Catan. Each turn, dice rolls determine which resources (lumber, wool, grain, brick, and ore) the island produces. Players then trade or use these resources to build roads, settlements, and cities in a race to earn victory points. With its blend of resource management, negotiation, and territory expansion, Catan has become one of the most widely recognized gateway games, introducing countless people to modern board gaming.'
 components:
   - 6 sea frame pieces
