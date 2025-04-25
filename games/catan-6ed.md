@@ -11,13 +11,14 @@ owned: "yes"
 overview: 'Catan (previously called The Settlers of Catan) is a landmark strategy board game where players take on the roles of settlers striving to develop and expand their colonies on the island of Catan. Each turn, dice rolls determine which resources (lumber, wool, grain, brick, and ore) the island produces. Players then trade or use these resources to build roads, settlements, and cities in a race to earn victory points. With its blend of resource management, negotiation, and territory expansion, Catan has become one of the most widely recognized gateway games, introducing countless people to modern board gaming.'
 components:
   - 6 sea frame pieces
-  - 19 hexes
-    - 3 hills
-    - 4 forests
-    - 4 pastures
-    - 4 fields
-    - 3 mountains
-    - 1 desert
+  - name: 19 hexes
+    sub:
+      - 3 hills
+      - 4 forests
+      - 4 pastures
+      - 4 fields
+      - 3 mountains
+      - 1 desert
   - 2 bonus victory point tiles
   - 18 number discs
   - 4 player aids
