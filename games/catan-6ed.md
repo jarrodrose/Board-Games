@@ -22,10 +22,27 @@ components:
   - 2 bonus victory point tiles
   - 18 number discs
   - 4 player aids
-  - 120 cards
+  - name: 25 development cards
+    sub:
+      - 2 Monopoly
+      - 2 Road Building
+      - 2 Invention 
+      - 14 Knight
+      - 5 Victory Point
+  - name: 95 resource cards
+    sub:
+      - 19 brick
+      - 19 wood
+      - 19 wool
+      - 19 wheat
+      - 19 ore
+  - name: 96 player pieces
+    sub:
+      - 20 settlements (5 blue, red, white and orange)
+      - 16 cities (4 blue, red, white and orange)
+      - 60 roads (15 blue, red, white and orange)
   - 2 dice
   - 1 robber
-  - 96 player pieces
   - 2 card trays
 ---
 
