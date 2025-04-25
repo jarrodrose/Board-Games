@@ -38,9 +38,24 @@ components:
       - 19 ore
   - name: 96 player pieces
     sub:
-      - 20 settlements (5 blue, red, white and orange)
-      - 16 cities (4 blue, red, white and orange)
-      - 60 roads (15 blue, red, white and orange)
+      - name: 20 settlements
+        sub:
+          - 5 blue
+          - 5  red
+          - 5 white
+          - 5 orange
+      - name: 16 cities
+        sub:
+          - 4 blue
+          - 4 red
+          - 4 white
+          - 4 orange
+      - name: 60 roads
+        sub:
+          - 15 blue
+          - 15 red
+          - 15 white
+          - 15 orange
   - 2 dice
   - 1 robber
   - 2 card trays
