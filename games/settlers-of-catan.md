@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "Settlers of Catan"
+title: "Catan (previously Settlers of Catan)"
 
 game_stats:
   year: 1995
