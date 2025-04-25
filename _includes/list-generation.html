@@ -1,0 +1,21 @@
+<ul>
+  {% for item in include.items %}
+    {% if item.name %}
+      <li>
+        {{ item.name }}
+        {% if item.sub %}
+          {% include list-generation.html items=item.sub %}
+        {% endif %}
+      </li>
+    {% else %}
+      {% if item.sub %}
+        <li>
+          {{ item.name }}
+          {% include list-generation.html items=item.sub %}
+        </li>
+      {% else %}
+        <li>{{ item }}</li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
