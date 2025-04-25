@@ -40,22 +40,13 @@ components:
     sub:
       - name: 20 settlements
         sub:
-          - 5 blue
-          - 5  red
-          - 5 white
-          - 5 orange
+          - 5 of blue, red, white and orange
       - name: 16 cities
         sub:
-          - 4 blue
-          - 4 red
-          - 4 white
-          - 4 orange
+          - 4 of blue, red, white and orange
       - name: 60 roads
         sub:
-          - 15 blue
-          - 15 red
-          - 15 white
-          - 15 orange
+          - 15 of blue, red, white and orange
   - 2 dice
   - 1 robber
   - 2 card trays
