@@ -7,15 +7,15 @@
           {% include list-generation.html items=item.sub %}
         {% endif %}
       </li>
+    {% elsif item.sub %}
+      <li>
+        {% if include.default_label %}
+          <em>{{ include.default_label }}</em>
+        {% endif %}
+        {% include list-generation.html items=item.sub %}
+      </li>
     {% else %}
-      {% if item.sub %}
-        <li>
-          {{ item.name }}
-          {% include list-generation.html items=item.sub %}
-        </li>
-      {% else %}
-        <li>{{ item }}</li>
-      {% endif %}
+      <li>{{ item }}</li>
     {% endif %}
   {% endfor %}
 </ul>
