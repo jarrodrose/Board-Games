@@ -36,7 +36,14 @@ components:
           - Double the Rent (x2)
           - House (x3)
           - Hotel (x2)
-      - 20 Money cards (6x 1M, 5x 2M, 3x 3M, 3x 4M, 2x 5M, 1x 10M)
+      - name: 20 Money cards
+        sub:
+          - 1M (x6)
+          - 2M (x5)
+          - 3M (x3)
+          - 4M (x3)
+          - 5M (x2)
+          - 10M (x1)
       - 4 Tips and Rules / References
   - Quick-start Rule Sheet
 ---
