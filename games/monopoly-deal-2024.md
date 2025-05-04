@@ -18,7 +18,13 @@ components:
       - 11 Property wildcards
       - name: 34 Action Cards
         sub:
-          - Rent (x10) (2x Brown/Light Blue, 2x Pink/Orange, 2x Red/Yellow, 2x Dark Blue/Green, 2x Mint/Black)
+          - Rent (x10)
+            sub:
+              - Brown/Light Blue
+              - Pink/Orange
+              - Red/Yellow
+              - Dark Blue/Green
+              - Mint/Black
           - Rent - Wildcard (x3)
           - Debt Collector (x3)
           - Just Sat No (x3)
