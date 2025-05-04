@@ -9,7 +9,7 @@ game_stats:
   complexity: "Easy"
   age_range: "8+"
 owned: "yes"
-boxart: "https://instructions.hasbro.com/_next/image?url=https%3A%2F%2Fwww.hasbro.com%2Fcommon%2Fproductimages%2Fen_AU%2F86FDE41CA99B4942B354D7150A366734%2Fd2a0e7967b0825f2d5578aa1f3dfb94ee87d7b34.jpg"
+boxart: "https://instructions.hasbro.com/_next/image?url=https%3A%2F%2Fwww.hasbro.com%2Fcommon%2Fproductimages%2Fen_AU%2F86FDE41CA99B4942B354D7150A366734%2Fd2a0e7967b0825f2d5578aa1f3dfb94ee87d7b34.jpg&w=256&q=75"
 overview: 'Monopoly Deal is a fast, portable card‑game take on the classic Monopoly board game. Players race to collect three complete property sets while tactically managing money cards, charging rent, and springing action cards that steal or swap properties. With hands limited to seven cards, every turn is a puzzle of resource management and timing. Games finish in about 15 minutes, delivering the property‑trading flavor of Monopoly without the multi‑hour commitment.'
 components:
   - name: Cards (110)
