@@ -48,6 +48,13 @@ components:
   - Quick-start Rule Sheet
 ---
 
+## Why You Might Enjoy It
+
+* Delivers the negotiation and take‑that energy of Monopoly in 15 minutes.
+* Compact deck—perfect travel or filler game.
+* High interaction: clever timing of Deal Breaker, Sly Deal, and Just Say No! creates memorable table drama.
+* Simple rules yet meaningful hand‑management decisions each turn.
+
 ## Setup
 
 1. Shuffle the full deck and deal 5 cards to each player.
@@ -56,27 +63,24 @@ components:
 
 ## How to Play
 
-On your turn:
-
+### On your turn
 1. Draw 2 cards from the deck (unless you have zero cards, in which case draw 5).
 2. Play up to 3 cards to your tableau or discard pile in any combination:
-
-   * Bank a money or Action card (face‑up money stack).
-   * Lay a property into your property area.
-   * Play an Action (charge Rent, steal/swaps, force deals, etc.). Action cards then go to the discard unless banked as money.
-3. Check hand limit: Discard down to 7 cards.
+   * Add money/action cards to your Bank.
+   * Add properties to your collection.
+   * Play an Action card. Unless banked as money, Action cards are discarded.
+3. End your turn with up to 7 cards. If you have more than 7, discard the extra.
 4. Play passes left.
 
-Payments: When charged rent or fees, pay from bank first, then properties if needed (no change given).
+### Tips and Rules
+* You may not pay a debt with cards from your hand.
+* Properties never go in your Bank.
+* Change is never given when paying a debt
+* If you don't have enough money in your Bank, pay with property.
+* You may change the colour of a wild property card at any time during your turn.
 
-Winning: Be the first to assemble three full property sets in front of you.
-
-## Why You Might Enjoy It
-
-* Delivers the negotiation and take‑that energy of Monopoly in 15 minutes.
-* Compact deck—perfect travel or filler game.
-* High interaction: clever timing of Deal Breaker, Sly Deal, and Just Say No! creates memorable table drama.
-* Simple rules yet meaningful hand‑management decisions each turn.
+### How to win
+* Collect 3 complete property sets, each in a different colour.
 
 ## Stats
 
