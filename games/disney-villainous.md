@@ -9,7 +9,8 @@ game_stats:
   age_range: "10+"
 owned: "no"
 boxart: "https://cf.geekdo-images.com/7Ej5V5Dq92QdvVFvISfl_A__imagepagezoom/img/bxVXswAbs-DZpdE3du941MgXQpQ=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4216110.jpg"
-overview: 'Disney Villainous lets 2–6 players step into the shoes of iconic Disney villains, each pursuing a unique, movie-inspired objective while thwarting opponents with “Fate” cards drawn from their own films. Every villain has a personal board (Realm), custom villain deck, and matching Fate deck. On your turn you move your villain mover to a location, perform the available actions, and play cards that advance your scheme or hinder your rivals. The asymmetry—every villain wins in a different way—makes each play feel fresh, and expansions add new baddies who seamlessly mix with the originals.'
+overview: 'Disney Villainous lets 2–6 players step into the shoes of iconic Disney villains, each pursuing a unique, movie-inspired objective while thwarting opponents with “Fate” cards drawn from their own films. Every villain has a personal board (Realm), custom villain deck, and matching Fate deck. On your turn you move your villain mover to a location, perform the available actions, and play cards that advance your scheme or hinder your rivals. The asymmetry—every villain wins in a different way—makes each play feel fresh, and expansions add new baddies who seamlessly mix with the originals.   
+  Base Game Villains = Jafar, Prince John, Queen Of Hearts, Maleficent, Captain Hook & Ursula'
 components:
   - 6 sculpted villain movers
   - 6 two-sided villain boards (four locations each)
