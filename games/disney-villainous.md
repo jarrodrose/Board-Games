@@ -86,4 +86,5 @@ components:
 * [Filled with Fright (BGG)](https://boardgamegeek.com/boardgameexpansion/391217/disney-villainous-filled-with-fright)
 * [Sugar and Spite (BGG)](https://boardgamegeek.com/boardgame/411003/disney-villainous-sugar-and-spite)
 * [Disney Villainous Wiki](https://disney-villainous.fandom.com/wiki/Disney_Villainous_Wiki)
+* [Meeple Like Us review & accessibility report](https://www.meeplelikeus.co.uk/villainous-2018/)
 * [Official Rulebook PDF – Base Game](https://cdn.1j1ju.com/medias/7b/f9/3d-disney-villainous-rulebook.pdf)
