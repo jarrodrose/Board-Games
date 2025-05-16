@@ -38,10 +38,10 @@ highlights:
 expansions:
   major:
     - name: "Mysterium: Hidden Signs"
-      owned: false
+      owned: true
       description: "Adds new characters, locations, objects, and more vision cards for additional variety."
     - name: "Mysterium: Secrets & Lies"
-      owned: false
+      owned: true
       description: "Introduces new story-based clue cards in place of objects and expands the range of vision cards."
 references:
   - name: "Mysterium – BoardGameGeek"
