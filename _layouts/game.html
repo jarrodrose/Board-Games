@@ -30,38 +30,22 @@ layout: default
 
   <section class="game-components">
     <h2>Components</h2>
-    <ul>
-      {% for component in game.components %}
-      <li>{{ component }}</li>
-      {% endfor %}
-    </ul>
+    {% include list-generation.html items=game.components %}
   </section>
 
   <section class="game-setup">
     <h2>Setup</h2>
-    <ol>
-      {% for step in game.setup %}
-      <li>{{ step }}</li>
-      {% endfor %}
-    </ol>
+    {% include list-generation.html items=game.setup %}
   </section>
 
   <section class="game-gameplay">
     <h2>How to Play</h2>
-    <ol>
-      {% for step in game.gameplay %}
-      <li>{{ step }}</li>
-      {% endfor %}
-    </ol>
+    {% include list-generation.html items=game.gameplay %}
   </section>
 
   <section class="game-highlights">
     <h2>Why You Might Enjoy It</h2>
-    <ul>
-      {% for highlight in game.highlights %}
-      <li>{{ highlight }}</li>
-      {% endfor %}
-    </ul>
+    {% include list-generation.html items=game.highlights %}
   </section>
 
   {% if game.expansions %}
@@ -70,37 +54,19 @@ layout: default
     
     {% if game.expansions.major %}
     <h3>Major Expansions</h3>
-    <ul>
-      {% for expansion in game.expansions.major %}
-      <li>
-        {% if expansion.owned %}✓{% else %}□{% endif %}
-        <strong>{{ expansion.name }}</strong> – {{ expansion.description }}
-      </li>
-      {% endfor %}
-    </ul>
+    {% include expansion-list.html items=game.expansions.major %}
     {% endif %}
 
     {% if game.expansions.minor %}
     <h3>Minor Expansions</h3>
-    <ul>
-      {% for expansion in game.expansions.minor %}
-      <li>
-        {% if expansion.owned %}✓{% else %}□{% endif %}
-        <strong>{{ expansion.name }}</strong> – {{ expansion.description }}
-      </li>
-      {% endfor %}
-    </ul>
+    {% include expansion-list.html items=game.expansions.minor %}
     {% endif %}
   </section>
   {% endif %}
 
   <section class="game-references">
     <h2>References</h2>
-    <ul>
-      {% for reference in game.references %}
-      <li><a href="{{ reference.url }}">{{ reference.name }}</a></li>
-      {% endfor %}
-    </ul>
+    {% include reference-list.html items=game.references %}
   </section>
 
   {{ content }}
