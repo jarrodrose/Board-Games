@@ -1,0 +1,77 @@
+title: "Risk"
+owned: false
+game_stats:
+  year: 1957
+  players: "2-6"
+  duration: "120-180 minutes"
+  complexity: "Medium"
+  age_range: "10+"
+boxart: "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Risk_logo.jpg"
+overview: "Risk is the quintessential game of global conquest, first published in 1957 (as La Conquête du Monde) and refined by Parker Brothers/Hasbro into the version most players know today. On an abstracted world map divided into 42 territories and 6 continents, 2 – 6 commanders build armies, forge alliances, and wage dice‑driven battles to eliminate opponents and control every territory. Classic Risk marries straightforward area‑control mechanics with tense diplomacy: treaties, betrayals, and surprise offensives are every bit as important as lucky rolls. Its simple ruleset, high player interaction, and dramatic swings of fortune have made it a mainstay of family game nights and strategy enthusiasts alike for decades."
+components:
+  - "Tri‑fold world game board (42 territories across 6 continents)"
+  - "56 Risk cards (42 territory cards + 2 Jokers + 12 Secret Mission cards in modern editions)"
+  - "5 or 6 complete armies (color sets of Infantry, Cavalry = 5 Infantry, Artillery = 10 Infantry)"
+  - "5 dice (3 red attacker dice, 2 white defender dice)"
+  - "Cardboard or plastic war crates/trays for component storage (varies by edition)"
+  - "Rulebook"
+setup:
+  - "Choose a color and take all matching army pieces. Place one Infantry on the 0 space of the score track if your edition has one (optional for classic Risk)."
+  - "Determine initial territories: either deal all 42 territory cards evenly, then place one Infantry on each owned territory, or use the faster \"free placement\" or \"draft\" methods described in the rulebook."
+  - "Claim extra starting armies (based on player count) and deploy them, one army at a time, onto any territory you already control."
+  - "Shuffle the Risk cards to form a draw deck; set dice and spare armies nearby. Choose a starting player at random."
+gameplay:
+  - "Reinforcement Phase: Receive new armies: ⌊(controlled territories ÷ 3)⌋ (min 3) + continent bonuses + traded‑in Risk card sets (if any)."
+  - "Attack Phase (optional): Declare attacks from a territory you own to an adjacent enemy territory. Roll up to 3 red dice (attackers) vs. up to 2 white dice (defenders); compare highest pairs to resolve casualties. Continue attacking as desired."
+  - "When you conquer at least one territory, draw one Risk card at turn's end (if eligible)."
+  - "Fortify Phase: Move any number of armies from one owned territory to an adjacent owned territory (or along a connected path, depending on house rules/edition)."
+winning_conditions:
+  - "World Domination: eliminate every opponent and control all 42 territories."
+  - "Secret Mission (optional mode): complete your dealt mission card before anyone else."
+highlights:
+  - "Timeless \"dudes‑on‑a‑map\" excitement with epic sweeps of fortune and dramatic last stands."
+  - "Negotiation & treachery—alliances form and shatter, adding social depth to simple mechanics."
+  - "Scalable length & variants—play classic domination, faster Secret Mission, or incorporate expansions for fresh twists."
+  - "Accessible rules yet plenty of opportunity for clever tactical play."
+expansions:
+  variants:
+    - name: "Risk: 2210 A.D."
+      owned: false
+      description: "Futuristic commanders, Devastation events, 5‑turn limit"
+    - name: "Risk: Godstorm"
+      owned: false
+      description: "Mythological factions, gods' powers, underworld map"
+    - name: "Risk: Legacy"
+      owned: false
+      description: "Campaign where the board and factions permanently evolve over 15+ games"
+    - name: "Risk Europe"
+      owned: false
+      description: "Economic elements, two‑step combat, medieval map"
+    - name: "Risk: Star Wars Edition (Original Trilogy)"
+      owned: false
+      description: "Star Wars themed Risk"
+    - name: "Risk: Star Wars – The Clone Wars Edition"
+      owned: false
+      description: "Clone Wars themed Risk"
+    - name: "Risk: Game of Thrones (2‑map Deluxe Edition)"
+      owned: false
+      description: "Game of Thrones themed Risk"
+    - name: "Risk: Lord of the Rings Trilogy Edition"
+      owned: false
+      description: "Lord of the Rings themed Risk"
+    - name: "Risk: Halo Wars"
+      owned: false
+      description: "Halo themed Risk"
+    - name: "Risk: Metal Gear Solid"
+      owned: false
+      description: "Metal Gear Solid themed Risk"
+    - name: "Risk: The Walking Dead – Survival Edition"
+      owned: false
+      description: "Walking Dead themed Risk"
+references:
+  - name: "Risk – Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Risk_(game)"
+  - name: "Risk – BoardGameGeek"
+    url: "https://boardgamegeek.com/boardgame/181/risk"
+  - name: "Official Rules (PDF) – Hasbro"
+    url: "https://www.hasbro.com/common/instruct/risk.pdf" 

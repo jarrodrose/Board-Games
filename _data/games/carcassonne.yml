@@ -1,0 +1,90 @@
+title: "Carcassonne"
+owned: true
+game_stats:
+  year: 2000
+  players: "2-5"
+  duration: "30-45 minutes"
+  complexity: "Easy"
+  age_range: "7+"
+boxart: "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Carcassonne-game.jpg"
+overview: "Carcassonne is a classic tile-placement strategy board game set in medieval France. It was designed by Klaus-Jürgen Wrede and first published in 2000. The game is named after the walled city of Carcassonne in southern France, reflecting its medieval fortress theme. In Carcassonne, players draw and place landscape tiles to build out a map of cities, roads, monasteries, and fields, claiming these features with their wooden follower tokens (meeples) to score points. The gameplay is simple to learn yet offers strategic depth – making it appealing to both families and serious gamers. Carcassonne won the prestigious Spiel des Jahres (Game of the Year) award in 2001 and has since spawned numerous expansions and spin-offs. Its blend of light tactical decision-making and historical theme (developing medieval cities and infrastructure) gives it a broad, enduring appeal."
+components:
+  - name: "Base Game Components"
+    items:
+      - "72 land tiles (terrain squares depicting roads, cities, monasteries, and fields) – including one starting tile"
+      - "40 wooden follower tokens (meeples) in 5 colors – 8 per player color (used for claiming features and one for scoring)"
+      - "12 river tiles – an optional mini-expansion (The River) included in current editions"
+      - "5 abbot meeples – a mini-expansion piece (one per player color) for claiming monasteries or gardens"
+      - "1 scoring track board (scoreboard)"
+      - "Rulebook"
+setup:
+  - "Take the single starting tile (in current editions, this may be a dark-backed tile or the start of the River) and place it face-up in the middle of the table as the seed of the map"
+  - "Shuffle all remaining land tiles face-down into stacks or a draw pile within reach"
+  - "Place the scoreboard near the play area"
+  - "Each player chooses a color and takes their set of meeple pieces"
+  - "Give each player 7 meeples as their personal supply, and place the 8th meeple on the 0 space of the scoreboard"
+  - "Randomly choose a starting player"
+gameplay:
+  - name: "On each turn"
+    steps:
+      - "Draw and Place a Tile: The player draws one random land tile from the face-down supply and adds it to the map"
+      - "The new tile must be placed adjacent to at least one existing tile, with all touching edges matching the existing terrain features"
+      - "If a drawn tile has no legal placement, it may be removed from play or set aside"
+      - "Place a Meeple (optional): After placing a tile, the player may place one of their available meeples on a feature of that tile"
+      - "Score Completed Features: Any features completed by the tile placement are scored immediately"
+  - name: "Game End"
+    steps:
+      - "The game continues until all tiles have been placed"
+      - "After the last tile is placed, a final scoring occurs"
+      - "Incomplete features score fewer points"
+      - "Fields are scored for the first time, typically 3 points per completed city connected"
+      - "Player with the highest score wins"
+highlights:
+  - "Accessible Gameplay: Very easy to learn and teach, rules are straightforward"
+  - "Strategic Depth: Despite simple rules, plenty of strategy and meaningful decision-making"
+  - "High Replayability: Game offers new experience each time due to random tile draws"
+  - "Engaging Theme: Building a medieval landscape is satisfying and visually appealing"
+  - "Quick & Fun: Plays in about half an hour with minimal downtime"
+expansions:
+  major:
+    - name: "Inns & Cathedrals (2002)"
+      owned: false
+      description: "Adds big meeples and tiles with inns (boost roads) and cathedrals (boost cities). Also enables a 6th player"
+    - name: "Traders & Builders (2003)"
+      owned: false
+      description: "Adds trade goods (bonus points for collecting wine, grain, cloth), builders (extra turn mechanic), and pig tokens"
+    - name: "The Princess & the Dragon (2005)"
+      owned: false
+      description: "Adds a dragon that moves and eats meeples, a fairy, and portal tiles"
+    - name: "The Tower (2006)"
+      owned: false
+      description: "Adds tower pieces that allow capturing opponents' meeples, plus a tile tower for drawing tiles"
+    - name: "Abbey & Mayor (2007)"
+      owned: false
+      description: "Introduces abbey tiles, mayor meeples, barns, and wagons"
+    - name: "Count, King & Robber (2008)"
+      owned: false
+      description: "A compilation expansion with the Count of Carcassonne, King and Robber Baron bonuses, and extra tiles"
+    - name: "The Catapult (2008)"
+      owned: false
+      description: "A quirky expansion with a physical catapult device and fairground tiles"
+    - name: "Bridges, Castles & Bazaars (2010)"
+      owned: false
+      description: "Adds bridge pieces, castle tokens, and bazaar tiles"
+    - name: "Hills & Sheep (2014)"
+      owned: false
+      description: "Adds hill tiles, sheep tokens, and wolf tokens"
+    - name: "Under the Big Top (2017)"
+      owned: false
+      description: "Circus-themed expansion adding acrobat tiles and a big top tent"
+references:
+  - name: "Carcassonne – Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Carcassonne_%28board_game%29"
+  - name: "Carcassonne – BoardGameGeek"
+    url: "https://boardgamegeek.com/boardgame/822/carcassonne"
+  - name: "Carcassonne Big Box 7 – BoardGameGeek"
+    url: "https://boardgamegeek.com/boardgame/364405/carcassonne-big-box-7"
+  - name: "Carcassonne – Z-Man Games"
+    url: "https://www.zmangames.com/game/carcassonne/"
+  - name: "Carcassonne Rulebook (PDF)"
+    url: "https://images.zmangames.com/filer_public/d5/20/d5208d61-8583-478b-a06d-b49fc9cd7aaa/zm7810_carcassonne_rules.pdf" 

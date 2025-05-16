@@ -1,0 +1,61 @@
+title: "Robo Rally"
+owned: true
+game_stats:
+  year: 1994
+  players: "2-8"
+  duration: "45-120 minutes"
+  complexity: "Medium"
+  age_range: "12+"
+boxart: "https://cf.geekdo-images.com/eJx8hRJ6-86C2VrhECwEPA__itemrep/img/T3W6bMjG8ijDY_U4tEfoY6e2CCo=/fit-in/246x300/filters:strip_icc()/pic1000553.jpg"
+overview: "Robo Rally is a competitive racing and programming board game in which players control robots on a hazardous factory floor. Using a deck of instruction cards, you and your opponents simultaneously program your robots' movements across conveyor belts, rotating gears, and other perilous obstacles. The goal is to reach specified checkpoints in the correct order, but even the best-planned route can be thwarted by collisions, laser turrets, or a slight miscalculation of movement.
+
+Released in 1994 and designed by Richard Garfield (better known for creating Magic: The Gathering), Robo Rally stands out for its blend of strategic programming and chaotic mischief. Each turn offers a puzzle-like challenge: plan your moves in sequence while predicting the mayhem your friends might cause. The modular board layout and randomized elements add high replay value, ensuring each race feels fresh and unpredictable."
+components:
+  - "Modular game boards featuring conveyor belts, pushers, rotating gears, and laser turrets"
+  - "Robot miniatures (or tokens, depending on the edition)"
+  - "Deck of program cards (movement and turn instructions)"
+  - "Damage counters or tokens"
+  - "Flags or checkpoints to mark race objectives"
+  - "Rulebook"
+setup:
+  - "Select or arrange the factory floor boards based on a chosen layout or scenario."
+  - "Place flags (checkpoints) on the board in the required order."
+  - "Each player selects a robot and places it on the designated start spot."
+  - "Shuffle the program cards thoroughly; each player draws nine program cards (or the number specified by your rules edition)."
+  - "If using advanced rules, distribute upgrade cards or set aside any additional components."
+  - "The game is now ready to start the programming phase."
+gameplay:
+  - "Deal Program Cards: Each round, players receive nine program cards (or a set number)."
+  - "Plan Your Moves: Secretly choose five cards to form a movement sequence for your robot."
+  - "Reveal and Resolve: All players simultaneously reveal the first card and move their robots accordingly. This includes rotating gears, conveyor belts, and interactions with other robots."
+  - "Collisions and Hazards: Lasers, pits, or pushing another robot off course can occur. Apply damage if your robot is hit by lasers or collides with obstacles."
+  - "Repeat: Reveal and resolve the next card in your sequence until all five cards have been executed."
+  - "Checkpoint Progress: If you land on or pass over a checkpoint in the correct order, you mark that checkpoint as complete."
+  - "Damage and Repairs: Damaged robots may draw fewer cards on future turns. If you sustain too much damage, your robot could be destroyed or forced to reboot."
+  - "Winning: The first player to reach all checkpoints in sequence and then cross the final checkpoint wins."
+highlights:
+  - "Strategic Programming: Offers a fun puzzle element that rewards careful planning."
+  - "Chaotic Fun: Unexpected interactions, conveyor belts, and lasers often create hilarious, unpredictable outcomes."
+  - "Replay Value: Modular boards and various scenario setups ensure each race feels different."
+  - "Group Interaction: Watching friends (and your own robot) get knocked into pits or lasers elicits a lot of table banter and laughter."
+expansions:
+  major:
+    - name: "Crash and Burn"
+      owned: false
+      description: "Additional boards and hazards"
+    - name: "Armed and Dangerous"
+      owned: false
+      description: "New upgrade cards and weapons"
+    - name: "Radioactive"
+      owned: false
+      description: "Additional boards and hazards"
+    - name: "Grand Prix"
+      owned: false
+      description: "Racing-themed boards and rules"
+references:
+  - name: "Wikipedia - Roborally"
+    url: "https://en.wikipedia.org/wiki/RoboRally"
+  - name: "Board Game Geeks"
+    url: "https://boardgamegeek.com/boardgame/18/roborally"
+  - name: "Rules"
+    url: "https://fgbradleys.com/wp-content/uploads/rules/Robo%20Rally%20-%20rules.pdf?srsltid=AfmBOor9ie1DgyHcR5BZ3HCzJqwaSHBhKhZPk0Urr1fLcth1Qw350k5n" 
