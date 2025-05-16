@@ -10,7 +10,7 @@ boxart: "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Carcas
 overview: "Carcassonne is a classic tile-placement strategy board game set in medieval France. It was designed by Klaus-Jürgen Wrede and first published in 2000. The game is named after the walled city of Carcassonne in southern France, reflecting its medieval fortress theme. In Carcassonne, players draw and place landscape tiles to build out a map of cities, roads, monasteries, and fields, claiming these features with their wooden follower tokens (meeples) to score points. The gameplay is simple to learn yet offers strategic depth – making it appealing to both families and serious gamers. Carcassonne won the prestigious Spiel des Jahres (Game of the Year) award in 2001 and has since spawned numerous expansions and spin-offs. Its blend of light tactical decision-making and historical theme (developing medieval cities and infrastructure) gives it a broad, enduring appeal."
 components:
   - name: "Base Game Components"
-    items:
+    sub:
       - "72 land tiles (terrain squares depicting roads, cities, monasteries, and fields) – including one starting tile"
       - "40 wooden follower tokens (meeples) in 5 colors – 8 per player color (used for claiming features and one for scoring)"
       - "12 river tiles – an optional mini-expansion (The River) included in current editions"

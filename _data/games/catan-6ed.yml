@@ -11,7 +11,7 @@ overview: "Catan (previously called The Settlers of Catan) is a landmark strateg
 components:
   - "6 sea frame pieces"
   - name: "19 hexes"
-    items:
+    sub:
       - "3 hills"
       - "4 forests"
       - "4 pastures"
@@ -22,29 +22,29 @@ components:
   - "18 number discs"
   - "4 player aids"
   - name: "25 development cards"
-    items:
+    sub:
       - "2 Monopoly"
       - "2 Road Building"
       - "2 Invention"
       - "14 Knight"
       - "5 Victory Point"
   - name: "95 resource cards"
-    items:
+    sub:
       - "19 brick"
       - "19 wood"
       - "19 wool"
       - "19 wheat"
       - "19 ore"
   - name: "96 player pieces"
-    items:
+    sub:
       - name: "20 settlements"
-        items:
+        sub:
           - "5 of blue, red, white and orange"
       - name: "16 cities"
-        items:
+        sub:
           - "4 of blue, red, white and orange"
       - name: "60 roads"
-        items:
+        sub:
           - "15 of blue, red, white and orange"
   - "2 dice"
   - "1 robber"
