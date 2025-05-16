@@ -81,10 +81,10 @@ highlights:
 expansions:
   major:
     - name: "Catan: Seafarers"
-      owned: false
+      owned: true
       description: "Adds sea exploration and island hopping"
     - name: "Catan: Cities & Knights"
-      owned: false
+      owned: true
       description: "Adds city development and barbarian invasions"
     - name: "Catan: Traders & Barbarians"
       owned: false
