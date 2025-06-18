@@ -1,0 +1,54 @@
+title: "Mysterium"
+owned: true
+game_stats:
+  year: 2015
+  players: "2-7"
+  duration: "42-60 minutes"
+  complexity: "Medium"
+  age_range: "10+"
+overview: "Mysterium is a cooperative deduction game set in the 1920s where one player acts as a silent Ghost, attempting to communicate clues to the other players—called mediums—using beautifully illustrated \"vision\" cards. Working together, the mediums must interpret these abstract images to identify the correct suspect, location, and weapon connected to the Ghost's untimely demise.
+
+The game's haunting atmosphere, unique artwork, and immersive storyline make it a favorite among groups who enjoy puzzle-like challenges. Players rely on each other's intuition and creativity to make sense of the cryptic clues, ultimately piecing together the final mystery before time runs out."
+components:
+  - A clock board to track game rounds
+  - Screen for the Ghost to manage clues
+  - Character, location, and object cards
+  - Large "vision" cards with dreamlike illustrations
+  - Progress boards and tokens for each medium
+  - Assorted markers to indicate guesses and progression
+setup:
+  - Decide who will be the Ghost; this player sits behind the screen.
+  - Organize character, location, and object cards according to the number of players.
+  - Deal each medium their own progression board, markers, and clairvoyancy tokens.
+  - The Ghost randomly determines each medium's correct combination of suspect, place, and item (hidden behind the screen).
+  - Place the clock marker on the first hour (Round 1).
+  - Shuffle and place the vision cards face-down near the Ghost.
+gameplay:
+  - "Vision Phase: Each round, the Ghost silently gives \"vision\" cards to mediums in an attempt to hint at their correct suspect, location, or object."
+  - "Interpretation: Mediums discuss openly, trying to interpret the images and apply them to the set of visible suspects/locations/objects on the table."
+  - "Clairvoyancy Bets: Other mediums can use their tokens to bet on whether a fellow medium's guess is correct. This can earn additional points if they bet correctly."
+  - "Advancement: If a medium guesses correctly, they move on to identify the next part of the crime (suspect → location → object)."
+  - "Final Round: After all mediums have correctly identified their combinations, a final 'vision' is revealed to determine the true culprit. Mediums must collectively vote based on the final clues the Ghost provides."
+  - "Winning: Everyone wins (including the Ghost) if the group identifies the correct culprit in time. If they fail to guess correctly, the Ghost continues to roam in restless limbo."
+highlights:
+  - "Cooperative gameplay encourages discussions and shared problem-solving."
+  - "Atmospheric art and theme immerse you in a mysterious, slightly gothic setting."
+  - "Unique communication mechanic via abstract \"vision\" cards fosters creativity."
+  - "Suits those who enjoy deduction, imaginative thinking, and a collaborative challenge."
+expansions:
+  major:
+    - name: "Mysterium: Hidden Signs"
+      owned: true
+      description: "Adds new characters, locations, objects, and more vision cards for additional variety."
+    - name: "Mysterium: Secrets & Lies"
+      owned: true
+      description: "Introduces new story-based clue cards in place of objects and expands the range of vision cards."
+references:
+  - name: "Mysterium – BoardGameGeek"
+    url: "https://boardgamegeek.com/boardgame/181304/mysterium"
+  - name: "Mysterium (board game) – Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Mysterium_(board_game)"
+  - name: "Mysterium – Libellud"
+    url: "https://www.libellud.com/en/our-games/mysterium/"
+  - name: "Mysterium Rules (PDF)"
+    url: "https://cdn.svc.asmodee.net/production-libellud/uploads/2022/03/MYST_RULES_EN_BD.pdf" 

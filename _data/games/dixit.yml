@@ -1,0 +1,80 @@
+title: "Dixit"
+owned: false
+game_stats:
+  year: 2008
+  players: "3-6"
+  duration: "30 minutes"
+  complexity: "Easy"
+  age_range: "8+"
+overview: "Dixit is a storytelling card game known for its whimsical artwork and creative gameplay. Each round, the \"active player\" gives a short clue or phrase inspired by one of their cards, and the other players must secretly submit one of their own cards that best matches that clue. All submitted cards are then revealed, and players attempt to guess which card belongs to the active player. Correct guesses earn points, but if the clue is too obvious or too obscure, the active player risks missing out on points.
+
+This balance between clarity and mystery encourages imaginative clues. Players are rewarded for recognizing subtle nuances in the artwork or referencing shared experiences with other players. With a light ruleset and dreamlike card illustrations, Dixit has become a popular choice for families and casual groups alike."
+components:
+  - "84 large-format Dixit cards with surreal, evocative artwork"
+  - "Scoreboard or scoring track (depending on edition)"
+  - "Rabbit-shaped scoring tokens (or other markers)"
+  - "Voting tokens for each player"
+  - "Rulebook"
+setup:
+  - "Place the scoreboard within reach of all players."
+  - "Each player chooses a rabbit (or scoring token) and places it at the start of the score track."
+  - "Shuffle the Dixit cards thoroughly and deal 6 cards to each player."
+  - "Distribute voting tokens to each player (numbered tokens, typically 1–6, depending on edition and player count)."
+  - "Choose a starting player (the \"active player\") at random or by any preferred method."
+gameplay:
+  - "The active player secretly picks one of their cards and gives a short clue or phrase. The clue can be a word, sound, reference, or anything that comes to mind, but it should not be too obvious or too vague."
+  - "Each of the other players selects one card from their hand that could fit the clue and gives it to the active player, face down."
+  - "The active player shuffles all submitted cards (including their own) and lays them face up in a row."
+  - "All players (except the active player) vote on which card they believe is the active player's. Votes are placed face down using their numbered token that corresponds to the card's position."
+  - "Reveal all votes. Scoring is as follows:"
+  - "If all or none of the players guess the active player's card, the active player scores 0, and each other player scores 2 points."
+  - "Otherwise, the active player and each player who guessed correctly score 3 points."
+  - "Additionally, each player who received a vote on their submitted card (i.e., successfully fooled someone) scores 1 point per vote."
+  - "Move scoring tokens accordingly on the track and draw new cards to maintain a hand of 6."
+  - "Pass the role of active player to the next person and repeat."
+highlights:
+  - "Encourages creativity and interpretation, making each clue unique"
+  - "Quick to learn with rules that are easy for newcomers"
+  - "Beautiful artwork that sparks storytelling"
+  - "Great for families, casual groups, and larger gatherings"
+expansions:
+  major:
+    - name: "Dixit Odyssey"
+      owned: false
+      description: "Standalone or expansion, accommodates up to 12 players"
+    - name: "Dixit Quest (Dixit 2)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Journey (Dixit 3)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Origins (Dixit 4)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Daydreams (Dixit 5)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Memories (Dixit 6)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Revelations (Dixit 7)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Harmonies (Dixit 8)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Anniversary (Dixit 9)"
+      owned: false
+      description: "Additional cards"
+    - name: "Dixit Mirrors (Dixit 10)"
+      owned: false
+      description: "Additional cards"
+references:
+  - name: "Dixit - Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Dixit_(board_game)"
+  - name: "Dixit - Libellud"
+    url: "https://www.libellud.com/en/our-games/dixit/"
+  - name: "Dixit - BoardGameGeek"
+    url: "https://boardgamegeek.com/boardgame/39856/dixit"
+  - name: "Official Rules (PDF)"
+    url: "https://cdn.svc.asmodee.net/production-libellud/uploads/2021/06/R_FK-DIXR-U-2P-DIXIT-RULES_EN-e1605908691784.pdf" 

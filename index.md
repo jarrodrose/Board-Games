@@ -3,25 +3,23 @@ layout: home
 title: "Board Game Resources"
 ---
 
-## JR Owned
+## My Collection
 <ul>
-{% for page in site.pages %}
-  {% if page.layout contains 'game' %}
-    {% if page.owned contains 'yes' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endif %}
+{% for game_file in site.data.games %}
+  {% assign game = game_file[1] %}
+  {% if game.owned %}
+    <li><a href="{{ site.baseurl }}/games/{{ game_file[0] }}">{{ game.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
 
-## Friends Owned or Wanted
+## Wishlist
 <ul>
-{% for page in site.pages %}
-  {% if page.layout contains 'game' %}
-    {% unless page.owned contains 'yes' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endunless %}
-  {% endif %}
+{% for game_file in site.data.games %}
+  {% assign game = game_file[1] %}
+  {% unless game.owned %}
+    <li><a href="{{ site.baseurl }}/games/{{ game_file[0] }}">{{ game.title }}</a></li>
+  {% endunless %}
 {% endfor %}
 </ul>
 

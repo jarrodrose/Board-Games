@@ -1,43 +1,73 @@
 ---
 layout: base
 ---
+{% assign game = site.data.games[page.game_id] %}
 
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+<article class="game">
+  <header class="game-header">
+    <h1>{{ game.title }}</h1>
+    {% if game.boxart %}
+    <img src="{{ game.boxart }}" alt="{{ game.title }} box art" class="game-boxart">
+    {% endif %}
   </header>
 
-  <div class="boxart"  style="float: right; padding-left: 2em; padding-bottom: 1em;">
-    {% if page.boxart %}<img style="max-width: 200px;" src="{{ page.boxart }}" alt="{{ page.title }} Box Art" />{% endif %}
-  </div>
-
-  <div class="game_stats">
+  <section class="game-stats">
+    <h2>Game Stats</h2>
     <ul>
-      {% if page.game_stats.year %}<li>Year Released: {{ page.game_stats.year }}</li>{% endif %}
-      {% if page.game_stats.players %}<li>Players: {{ page.game_stats.players }}</li>{% endif %}
-      {% if page.game_stats.duration %}<li>Expected Duration: {{ page.game_stats.duration }}</li>{% endif %}
-      {% if page.game_stats.complexity %}<li>Complexity: {{ page.game_stats.complexity }}</li>{% endif %}
-      {% if page.game_stats.age_range %}<li>Age Range: {{ page.game_stats.age_range }}</li>{% endif %}
+      <li><strong>Year:</strong> {{ game.game_stats.year }}</li>
+      <li><strong>Players:</strong> {{ game.game_stats.players }}</li>
+      <li><strong>Duration:</strong> {{ game.game_stats.duration }}</li>
+      <li><strong>Complexity:</strong> {{ game.game_stats.complexity }}</li>
+      <li><strong>Age Range:</strong> {{ game.game_stats.age_range }}</li>
+      <li><strong>Status:</strong> {% if game.owned %}Owned{% else %}Wishlist{% endif %}</li>
     </ul>
-  </div>
+  </section>
 
-  <div class="post-content">
-    {% if page.overview %}
-    <div class="overview">
-      <h2>Overview</h2>
-      <p>{{ page.overview }}</p>
-    </div>
-    {% endif %}
-    {% if page.components %}
-    <div class="components">
-      <h2>Box Components</h2>
-      {% include list-generation.html items=page.components %}
-    </div>
-    {% endif %}
-    <div class="content">
-      {{ content }}
-    </div>
-  </div>
+  <section class="game-overview">
+    <h2>Overview</h2>
+    <p>{{ game.overview }}</p>
+  </section>
 
+  <section class="game-components">
+    <h2>Components</h2>
+    {% include list-generation.html items=game.components %}
+  </section>
+
+  <section class="game-setup">
+    <h2>Setup</h2>
+    {% include list-generation.html items=game.setup %}
+  </section>
+
+  <section class="game-gameplay">
+    <h2>How to Play</h2>
+    {% include list-generation.html items=game.gameplay %}
+  </section>
+
+  <section class="game-highlights">
+    <h2>Why You Might Enjoy It</h2>
+    {% include list-generation.html items=game.highlights %}
+  </section>
+
+  {% if game.expansions %}
+  <section class="game-expansions">
+    <h2>Expansions</h2>
+    
+    {% if game.expansions.major %}
+    <h3>Major Expansions</h3>
+    {% include expansion-list.html items=game.expansions.major %}
+    {% endif %}
+
+    {% if game.expansions.minor %}
+    <h3>Minor Expansions</h3>
+    {% include expansion-list.html items=game.expansions.minor %}
+    {% endif %}
+  </section>
+  {% endif %}
+
+  <section class="game-references">
+    <h2>References</h2>
+    {% include reference-list.html items=game.references %}
+  </section>
+
+  {{ content }}
 </article>
