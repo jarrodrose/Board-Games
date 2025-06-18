@@ -1,7 +1,7 @@
 <ul>
   {% for expansion in include.items %}
   <li>
-    {% if expansion.owned %}✓{% else %}□{% endif %}
+    {% if expansion.owned %}✓{% else %}x{% endif %}
     <strong>{{ expansion.name }}</strong> – {{ expansion.description }}
     {% if expansion.sub %}
       {% include list-generation.html items=expansion.sub %}
