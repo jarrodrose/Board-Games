@@ -21,3 +21,4 @@ minima:
   nav_pages:
     - about.md
   skin: classic
+  hide_site_feed_link: true
