@@ -17,5 +17,6 @@ remote_theme: jekyll/minima
 author:
   name: Jarrod Rose
 
-header_pages:
-  - about.md
+minima:
+  nav_pages:
+    - about.md
