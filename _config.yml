@@ -20,4 +20,4 @@ author:
 minima:
   nav_pages:
     - about.md
-  skin: dark
+  skin: classic
