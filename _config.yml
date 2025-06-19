@@ -2,20 +2,21 @@
 exclude: ['./README.md']
 
 title: "Board Game Collection"
+author:
+  name: Jarrod Rose
 description: "A collection of board games I own and love."
 baseurl: "/Board-Games" # the subpath for your site
 url: "https://jarrodrose.github.io"
 
-# Add to plugins: list
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme # Added to allow for using Minima 3.x
 
-# set up remote_theme
+# set up remote_theme to use Minima 3.x
 remote_theme: jekyll/minima
-#theme: minima # or another theme of your choice
+#theme: minima # Default Github Theme v2.x currently
 
-author:
-  name: Jarrod Rose
 
 minima:
   nav_pages:
