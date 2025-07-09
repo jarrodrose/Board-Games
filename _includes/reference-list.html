@@ -1,7 +1,7 @@
 <ul>
   {% for reference in include.items %}
   <li>
-    <a href="{{ reference.url }}">{{ reference.name }}</a>
+    <a href="{{ reference.url }}">{{ reference.name | markdownify }}</a>
     {% if reference.sub %}
       {% include list-generation.html items=reference.sub %}
     {% endif %}

@@ -1,7 +1,7 @@
 <ul>
   {% for expansion in include.items %}
   <li style="list-style-type: {% if expansion.owned %}square{% else %}circle{% endif %};">
-    <strong>{{ expansion.name }}</strong> – {{ expansion.description }}
+    <strong>{{ expansion.name | markdownify }}</strong> – {{ expansion.description | markdownify }}
     {% if expansion.sub %}
       {% include list-generation.html items=expansion.sub %}
     {% endif %}

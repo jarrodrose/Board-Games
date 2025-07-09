@@ -2,7 +2,7 @@
   {% for item in include.items %}
     {% if item.name %}
       <li>
-        {{ item.name }}
+        {{ item.name | markdownify }}
         {% if item.sub %}
           {% include list-generation.html items=item.sub %}
         {% endif %}
@@ -10,7 +10,7 @@
     {% elsif item.sub %}
       <li>
         {% if include.default_label %}
-          <em>{{ include.default_label }}</em>
+          <em>{{ include.default_label | markdownify }}</em>
         {% endif %}
         {% include list-generation.html items=item.sub %}
       </li>

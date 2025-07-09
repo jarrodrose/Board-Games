@@ -14,9 +14,9 @@ layout: base
   <section class="game-stats">
     <h2>Game Stats</h2>
     <ul>
-      <li><strong>Year:</strong> {{ game.game_stats.year }}</li>
-      <li><strong>Players:</strong> {{ game.game_stats.players }}</li>
-      <li><strong>Duration:</strong> {{ game.game_stats.duration }}</li>
+      <li><strong>Year:</strong> {{ game.game_stats.year | markdownify }}</li>
+      <li><strong>Players:</strong> {{ game.game_stats.players | markdownify }}</li>
+      <li><strong>Duration:</strong> {{ game.game_stats.duration | markdownify }}</li>
       <li><strong>Complexity:</strong> {{ game.game_stats.complexity }}</li>
       <li><strong>Age Range:</strong> {{ game.game_stats.age_range }}</li>
       <li><strong>Status:</strong> {% if game.owned %}Owned{% else %}Wishlist{% endif %}</li>
