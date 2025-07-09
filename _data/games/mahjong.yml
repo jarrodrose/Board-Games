@@ -1,5 +1,5 @@
 title: "Mahjong"
-owned: false
+owned: true
 game_stats:
   year: 1850  # developed in 19th century China:contentReference[oaicite:0]{index=0}
   players: "4 (3 with some variants)"  # usually four players; some regional 3-player variants:contentReference[oaicite:1]{index=1}
