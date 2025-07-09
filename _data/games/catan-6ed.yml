@@ -58,19 +58,19 @@ setup:
   - "Shuffle and place the development cards face down, then distribute resource cards as needed to begin the game"
 gameplay:
   - name: "Resource Production"
-    steps:
+    sub:
       - "Each turn begins with a dice roll"
       - "The number rolled indicates which tiles produce resources"
       - "Any player with a settlement or city adjacent to those tiles collects the matching resource cards"
   - name: "Trade and Build"
-    steps:
+    sub:
       - "After collecting resources, you may trade with other players or use resource cards to build roads, settlements, cities, or purchase development cards"
   - name: "Robber and Seven"
-    steps:
+    sub:
       - "If a 7 is rolled, the robber is moved to a resource hex, blocking its production"
       - "The player who moved the robber also steals one card from a player with a settlement or city adjacent to the robber's new location"
   - name: "Victory Points"
-    steps:
+    sub:
       - "You earn victory points for each settlement (1 point), city (2 points), and special achievements"
       - "The first player to reach 10 points wins"
 highlights:

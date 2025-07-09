@@ -26,14 +26,14 @@ setup:
   - "Randomly choose a starting player"
 gameplay:
   - name: "On each turn"
-    steps:
+    sub:
       - "Draw and Place a Tile: The player draws one random land tile from the face-down supply and adds it to the map"
       - "The new tile must be placed adjacent to at least one existing tile, with all touching edges matching the existing terrain features"
       - "If a drawn tile has no legal placement, it may be removed from play or set aside"
       - "Place a Meeple (optional): After placing a tile, the player may place one of their available meeples on a feature of that tile"
       - "Score Completed Features: Any features completed by the tile placement are scored immediately"
   - name: "Game End"
-    steps:
+    sub:
       - "The game continues until all tiles have been placed"
       - "After the last tile is placed, a final scoring occurs"
       - "Incomplete features score fewer points"

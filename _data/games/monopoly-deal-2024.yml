@@ -49,7 +49,7 @@ setup:
   - "Choose a starting player by any method."
 gameplay:
   - name: "On your turn"
-    steps:
+    sub:
       - "Draw 2 cards from the deck (unless you have zero cards, in which case draw 5)."
       - "Play up to 3 cards to your tableau or discard pile in any combination:"
       - "Add money/action cards to your Bank."

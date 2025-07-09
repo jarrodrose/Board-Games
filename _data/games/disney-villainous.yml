@@ -35,17 +35,17 @@ setup:
   - "Select a first player and begin"
 gameplay:
   - name: "On your turn"
-    steps:
+    sub:
       - "Move your villain to a different location"
       - "Perform actions shown at that location in any order (play cards, gain Power, Fate an opponent, move items/allies, activate abilities, or vanquish heroes)"
       - "Refill your hand to 4 cards"
   - name: "Fate Actions"
-    steps:
+    sub:
       - "When you take a Fate action, draw the top two cards of an opponent's Fate deck"
       - "Choose one to resolve (often adding a hero or effect to their Realm)"
       - "Discard the other card"
   - name: "Winning"
-    steps:
+    sub:
       - "Fulfil your villain's printed objective before any rival does"
       - "Each villain has a unique win condition based on their movie"
 highlights:

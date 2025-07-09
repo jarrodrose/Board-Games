@@ -27,7 +27,7 @@ gameplay:
   - "The active player shuffles all the submitted cards, then places them face up in a row for everyone to see"
   - "All players except the active player secretly vote (using their numbered tokens) on which card they believe is the active player's"
   - name: "Scoring"
-    steps:
+    sub:
       - "If everyone or no one guesses the active player's card, the active player scores 0, while each of the other players gains 2 points"
       - "Otherwise, the active player and each correct guesser score 3 points"
       - "Any player whose submitted card received votes also gains 1 point per vote"
