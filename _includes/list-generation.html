@@ -15,7 +15,7 @@
         {% include list-generation.html items=item.sub %}
       </li>
     {% else %}
-      <li>{{ item }}</li>
+      <li>{{ item | markdownify }}</li>
     {% endif %}
   {% endfor %}
 </ul>
