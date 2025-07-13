@@ -20,11 +20,11 @@ UNO FLIP plays like regular UNO, except there are two sides to the deck of cards
 ## Play
 On your turn, you try to get rid of all your cards by playing ONE CARD onto the Discard Pile.
 
-### If you HAVE a matching card in your hand, you may PLAY IT on the Discard Pile.
+If you HAVE a matching card in your hand, you may PLAY IT on the Discard Pile.
 1. You can only play a card if it matches at least one attribute of the top card on the Discard Pile: its color, number, or symbol.
 2. If the card you played is an Action Card, it does something special!
 
-### If you DO NOT HAVE a matching card, DRAW ONE CARD from the Draw Pile.
+If you DO NOT HAVE a matching card, DRAW ONE CARD from the Draw Pile.
 1. If your new card can be played (see above), then you may play it now. If not, your turn is over.
 2. You may choose to draw a card instead of playing one, even if you have a playable card in your hand.
 
