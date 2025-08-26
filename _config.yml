@@ -20,6 +20,7 @@ remote_theme: jekyll/minima
 
 minima:
   nav_pages:
+    - dev.md
     - about.md
   skin: classic
   hide_site_feed_link: true
