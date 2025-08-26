@@ -3,8 +3,6 @@ layout: home
 title: "About"
 ---
 
-The about page goes here!
+Board Game Information Site to allow for preparation in new Games prior to a game evening.
 
-Built by Jarrod Rose with game summaries provided sometime by my brain and sometimes by ChatGPT
-
-Branch: Dev
+Built by Jarrod Rose with game summaries provided sometime by my brain and sometimes by ChatGPT.
