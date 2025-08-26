@@ -12,7 +12,8 @@ title: "Development Notes"
 	- Built from 'main' branch
 - Jekyll
 - Minima 3.0 Theme
-	- explicitly using 3.0 as GitHub Pages default is minima 2.x
+	- explicitly using the dev3.0 as GitHub Pages default is minima 2.x
+	- <https://github.com/jekyll/minima>
 - Custom layouts and includes built on top of the Minima base
 
 ## Notes
