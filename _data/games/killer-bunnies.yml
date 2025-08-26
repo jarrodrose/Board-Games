@@ -1,0 +1,146 @@
+title: "Killer Bunnies and the Quest for the Magic Carrot"
+owned: true
+game_stats:
+  year: 2002
+  players: "2-8"
+  duration: "45-90 minutes"
+  complexity: "Medium"
+  age_range: "12+"
+boxart: "https://upload.wikimedia.org/wikipedia/en/7/77/Killer_Bunnies_and_the_Quest_for_the_Magic_Carrot.jpg"
+overview: "Killer Bunnies and the Quest for the Magic Carrot is a humorous, fast-paced card game where players collect carrots in hopes of holding the Magic Carrot at the end of the game. Players must protect their own bunnies while using outrageous weapons, tricks, and resource management to eliminate opponents’ rabbits and acquire more carrot cards. The winner is determined not by points but by luck: once all carrots are collected, the Magic Carrot is revealed, and the player holding it wins. This mix of strategy, unpredictability, and comedy has made Killer Bunnies a cult favorite among casual and hobby gamers alike."
+components:
+  - name: "Blue Starter Deck Components"
+    sub:
+      - "110-card starter deck (includes 8 Carrot cards and 101 play cards)"
+      - "Small Cabbage and Water cards (used as resources)"
+      - "Six 12-sided dice"
+      - "15 starter bunnies (3 of each type/color)"
+      - "Rulebook"
+setup:
+  - "Shuffle the Blue Starter deck and deal 7 cards to each player."
+  - "Place the Carrot cards in a separate stack."
+  - "Place the Cabbage and Water cards in piles accessible to all players."
+  - "Each player rolls a die; highest roller goes first."
+  - "Draw piles, dice, and carrots remain available throughout the game."
+gameplay:
+  - name: "Turn Sequence"
+    sub:
+      - "Draw 1 card from the deck into your hand (always maintaining 7 cards)."
+      - "Play 1 card face down into your Run pile (actions resolve after one round of delay)."
+      - "Move the top card of your Run pile into play and resolve it."
+      - "Resolve effects: this may involve placing or protecting bunnies, attacking with weapons, or collecting carrots."
+      - "Discard any used or expired cards."
+      - "End your turn and pass to the next player."
+  - name: "Winning the Game"
+    sub:
+      - "The game ends when all Carrot cards have been purchased or collected."
+      - "One Carrot is secretly designated the Magic Carrot."
+      - "The player holding the Magic Carrot wins, but only if they still have at least one bunny in play."
+highlights:
+  - "Unique victory condition: the winner is chosen randomly from carrot holders, ensuring no one is ever fully out of contention."
+  - "Chaotic humor and pop-culture references make the game entertaining as much as competitive."
+  - "Mix of luck and strategy: players must balance resource management, bunny survival, and aggressive tactics."
+  - "High replayability through booster decks that add new mechanics, dice, and card types."
+expansions:
+  major:
+    - name: "Yellow Booster Deck"
+      owned: true
+      description: "Adds four Carrots, Yellow and Violet bunnies, and the first Free Agent bunny."
+    - name: "Red Booster Deck"
+      owned: false
+      description: "Introduces Red bunnies with special powers, a weapons shop, a red d12, and four new Carrots."
+    - name: "Violet Booster Deck"
+      owned: false
+      description: "Adds Specialty Bunnies, the 20-sided die, and the final four Carrots."
+    - name: "Orange Booster Deck"
+      owned: false
+      description: "Introduces pawns and pawn shop mechanics for rerolls and combos."
+    - name: "Green Booster Deck"
+      owned: false
+      description: "Adds Zodiac cards and a Zodiac die, changing endgame scoring options."
+    - name: "Twilight White Booster Deck"
+      owned: false
+      description: "Adds the White Stuff die and black/white pawns."
+    - name: "Stainless Steel Booster Deck"
+      owned: false
+      description: "Introduces Super Bunnies and half-value resources."
+    - name: "Perfectly Pink Booster Deck"
+      owned: false
+      description: "Adds Pink bunnies and Bunny Ranks system."
+    - name: "Wacky Khaki Booster Deck"
+      owned: false
+      description: "Adds Officer Rank cards to expand the ranking mechanic."
+    - name: "Ominous Onyx Booster Deck"
+      owned: false
+      description: "Adds Mysterious Place cards with special effects."
+    - name: "Chocolate Booster Deck"
+      owned: false
+      description: "Adds 55 cards including re-released Omega and Psi promos."
+    - name: "Conquest Series (Blue, Yellow, Red, Violet)"
+      owned: false
+      description: "Originally part of Conquest of the Magic Carrot; adds Radish and Milk resources but is fully compatible."
+    - name: "Fantastic Booster Deck"
+      owned: false
+      description: "Adds Theta and Phi promo cards, new mechanics, and more small cards."
+    - name: "Caramel Swirl Booster Deck"
+      owned: false
+      description: "Adds a brown 12-sided die and new cards."
+    - name: "Creature Feature Booster Deck"
+      owned: false
+      description: "Adds Chinese Zodiac die and themed cards."
+    - name: "Pumpkin Spice Booster Deck"
+      owned: false
+      description: "Adds trade markers and negotiation mechanics."
+    - name: "La-Di-Da London Booster Deck"
+      owned: false
+      description: "Adds new Carrots and themed cards."
+    - name: "Cake Batter Booster Deck"
+      owned: false
+      description: "Adds KinderBunnies crossover cards, pawns, and small cards."
+    - name: "Radioactive Robots Booster Deck"
+      owned: false
+      description: "Adds radiation markers, new Carrots, and more chaos."
+    - name: "Almond Crisp Booster Deck"
+      owned: false
+      description: "Adds new pawns; released by designers directly in 2024."
+  minor:
+    - name: "Omega Series Promos"
+      owned: false
+      description: "First promo series (#1–12 later re-released in Chocolate, #13–17 in Fantastic)."
+    - name: "Psi Series Promos"
+      owned: false
+      description: "Promo series featuring the 'Kite and Arrow' mechanic; later re-released in Chocolate."
+    - name: "Nu Series Promos"
+      owned: false
+      description: "Literary-themed promo cards; re-released in Chocolate booster."
+    - name: "Theta Series Promos"
+      owned: false
+      description: "Fan-inspired promos from 10th Anniversary Edition; re-released in Fantastic booster."
+    - name: "Phi Series Promos"
+      owned: false
+      description: "Another 10th Anniversary promo set; re-released in Fantastic booster."
+    - name: "Pi Series Promos"
+      owned: false
+      description: "Convention/event promos (Series 1–4) including unique Enchanted Bunny variants."
+    - name: "Sigma Series Promos"
+      owned: false
+      description: "New promo series launched 2024; includes a Red d10 die with Series 1."
+references:
+  - name: "Blue Starter Instructions"
+    url: "https://killerbunnies.com/pages/blue-starter-instructions"
+  - name: "Booster Decks in Order"
+    url: "https://killerbunnies.com/pages/resources-booster-order"
+  - name: "Crucial Cards Reference"
+    url: "https://killerbunnies.com/pages/resources-crucial-cards"
+  - name: "Dice Substitutions"
+    url: "https://killerbunnies.com/pages/resources-dice-substitutions"
+  - name: "Teaching Killer Bunnies"
+    url: "https://killerbunnies.com/pages/teaching-killer-bunnies"
+  - name: "Designer’s Resource Center"
+    url: "https://killerbunnies.com/pages/designers-resource-center"
+  - name: "Promo Cards"
+    url: "https://killerbunnies.com/pages/promo-cards"
+  - name: "BoardGameGeek Entry"
+    url: "https://boardgamegeek.com/boardgame/3699/killer-bunnies-and-the-quest-for-the-magic-carrot"
+  - name: "Wikipedia Entry"
+    url: "https://en.wikipedia.org/wiki/Killer_Bunnies_and_the_Quest_for_the_Magic_Carrot"
