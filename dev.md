@@ -3,10 +3,10 @@ layout: home
 title: "Development Notes"
 ---
 
-## Version
-- 1.x
+## Site Version
+- 1.x.something
 
-## Technology involved"
+## Technology involved
 - GitHub Pages
 	- REPO - [jarrodrose/Board-Games](https://github.com/jarrodrose/Board-Games)
 	- Built from 'main' branch
