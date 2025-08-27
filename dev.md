@@ -3,7 +3,7 @@ layout: home
 title: "Development Notes"
 ---
 
-{:toc}
+* test test test {:toc}
 
 ## Site Version
 - 1.x.something
