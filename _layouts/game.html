@@ -11,6 +11,12 @@ layout: base
     {% endif %}
   </header>
 
+  <section class="toc">
+    {% capture mytoc %}* TOC
+    {:toc}{% end capture %}
+    {{ mytoc | markdownify }}
+  </section>
+
   <section class="game-stats">
     <h2>Game Stats</h2>
     <ul>
