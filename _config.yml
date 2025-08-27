@@ -21,6 +21,7 @@ remote_theme: jekyll/minima
 markdown: kramdown
 kramdown:
   toc_levels: 2..4 # include H2–H4 in the TOC
+  parse_block_html: true
 
 minima:
   nav_pages:
