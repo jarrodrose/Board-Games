@@ -12,8 +12,10 @@ layout: base
   </header>
 
   <section class="toc">
-    {% capture mytoc %}* TOC
-    {:toc}{% endcapture %}
+    {% capture mytoc %}
+    * TOC
+    {:toc}
+    {% endcapture %}
     {{ mytoc | markdownify }}
   </section>
 
